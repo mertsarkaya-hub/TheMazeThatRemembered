@@ -723,3 +723,215 @@ Elias closed the notebook and followed, leaving the six flowers in the
 wall's lengthening shade.
 
 If useful history could be carried without paper, where was it kept?
+
+## Chapter 4 — The Invisible Backpack
+
+The crack in the maze wall was exactly as Elias had drawn it.
+
+He stood at the junction with the notebook open in one hand. On the
+page, two passages divided around a narrow column of stone. A dark line
+ran down its center, widened near the ground, and ended beside a shallow
+chip. In front of him, the real crack did the same.
+
+Mira waited in the passage behind him.
+
+"Left," Elias said.
+
+He had reached the junction by the first of the two routes. The turns
+had carried him repeatedly to the right, and the left passage again
+felt like the way that would correct them. This time he did not enter
+it. He recorded the junction instead.
+
+*Left opening: six stones visible before turn. Right opening: six.
+First floor stones damp. No wind. Water audible beyond both walls. Light
+equal.*
+
+He added the position of the crack and the width of each passage. Then
+he walked from one opening to the other, listening for a difference in
+the water.
+
+"Nothing else," he said.
+
+Mira led him out by the left passage.
+
+They entered the maze again.
+
+On the second route, Elias kept no complete list of turns. He tried to
+notice only what changed his sense of where the entrance lay. The first
+left turn mattered. A short right did not undo it. Two more lefts made
+him feel that the way out must eventually lie to the right.
+
+When the narrow path opened onto the junction, he looked first at the
+crack.
+
+Same shallow chip. Same widening near the ground.
+
+He looked down both passages. Six visible stones on each side. Damp
+floor. Gray light.
+
+"Right," he said.
+
+Mira remained behind him. "What is different?"
+
+Elias placed the notebook on the center stone and began a second
+account beneath the first.
+
+*Left opening: six stones visible before turn. Right opening: six.
+First floor stones damp. No wind.*
+
+He stopped writing to listen.
+
+*Water audible beyond both walls. Light equal.*
+
+The two records seemed less like descriptions than copies. He checked
+the floor for a mark left by their earlier visit. There was none. He
+held his palm near each opening, then leaned into each passage and drew
+the same cool air into his lungs.
+
+"The light must be different by some amount," he said.
+
+"Would that explain your choice?"
+
+"I don't know."
+
+He measured the shadow below the crack with the side of his finger. It
+covered the same joint he had marked on the first pass.
+
+"Perhaps the sound changed."
+
+"Enough?"
+
+"I don't know."
+
+He looked at the page. In the courtyard, *I don't know* had felt like a
+gap he was expected to close. Here it kept him from filling the gap with
+something he had not seen.
+
+"The junction is the same," he said.
+
+"Yet?"
+
+"I chose differently."
+
+"What else is here?"
+
+Elias looked again at the passages, the walls, the open square above
+them. "You. Me. The notebook."
+
+Mira held out her empty hands.
+
+He inspected himself with more care than dignity. The knees of his
+trousers were equally damp from the garden. His shoes carried the same
+thin line of mud. His breathing had settled during the examination of
+the junction.
+
+"Nothing visible," he said.
+
+"Is visible the same as present?"
+
+Elias turned toward the path behind them. He could see only its final
+length and the corner that concealed the rest.
+
+The walk was over. Most of its path lay beyond the walls. The footsteps
+had ended. Even his notebook did not contain them all. Yet when he faced
+the junction, he had not arrived empty. He had arrived with a sense that
+the right passage corrected the path he had taken.
+
+"Something about the route is present in me," he said.
+
+Mira waited.
+
+"Not every turn. I could not tell you the number of stones we passed or
+where the damp patches were. But enough of the route is here to change
+my choice."
+
+"Where?"
+
+Elias touched his coat, then let his hand fall. "I cannot point to it."
+
+"Then is it there?"
+
+The question no longer sounded like a refusal. He compared the two
+accounts. The same visible junction had accompanied two different
+answers. The route had differed. If the junction alone did not account
+for the change, the traveler must carry some difference forward.
+
+"I have evidence for it," he said. "The choices are different. The
+present view is not."
+
+"Evidence for what?"
+
+He searched for a shape the thought could take.
+
+"An invisible backpack," he said at last.
+
+Mira looked at his shoulders.
+
+"Not a real one. The first route left me carrying 'too far right.' The
+second left me carrying 'too far left.' When I reached the junction, I
+chose as if I needed to balance what was in the pack."
+
+"Every turn?"
+
+"Changed what I carried. A left could reduce what the last right had
+done. Several lefts could outweigh it."
+
+"Did you carry every turn?"
+
+"No. That would be the crowded notebook again." Elias looked down the
+passage. "I carried a smaller account. Only what seemed useful for
+choosing the way out."
+
+"A backpack holds its contents until someone removes them."
+
+"This one would not." He closed the notebook. "It would change as the
+journey changed. Perhaps *backpack* is already the wrong word."
+
+"Useful for now," Mira said.
+
+The phrase pleased him more than approval would have. He could use an
+imperfect comparison without promising to keep it forever.
+
+"An unobserved internal state that summarizes useful history is called
+a hidden state," Mira said.
+
+Elias repeated the words silently. *Hidden state.* They named what he
+needed without pretending to reveal it.
+
+"So I did not observe the hidden state," he said.
+
+"No."
+
+"I inferred it from what changed."
+
+Mira nodded.
+
+For the first time, failing to see the answer did not feel like failing
+to reason. The two journeys had traced the edges of something unseen.
+He could remain honest about the gap and still ask what must occupy it.
+
+They left the junction by the right passage. Elias paused before the
+last turn and looked back. From there the two openings were already out
+of sight, but the choice he had made still shaped the way he understood
+the route.
+
+At the entrance, Mira stopped.
+
+"The interview?" Elias asked.
+
+"Is finished."
+
+He waited, trying not to supply the rest.
+
+"You may remain," she said.
+
+"As an apprentice?"
+
+"If you continue asking about what you cannot yet see."
+
+Elias looked into the maze. The invisible backpack had changed with
+each turn, but the comparison did not tell him how. A bag could be
+opened. Its contents could be counted. This hidden state had no such
+edges.
+
+How could an internal state change at every step?
