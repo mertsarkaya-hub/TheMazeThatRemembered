@@ -2177,3 +2177,194 @@ shared pattern into an explanation.
 
 If observation of movement was still not explanation, what had to be
 changed to learn more?
+
+## Chapter 11 — The Missing Gear
+
+The smallest gear moved first.
+
+Elias saw it at the moment Mira released the clock. A narrow tooth
+shifted beneath a brass catch. The small gear turned, the larger one
+beside it followed, and motion spread across the wooden frame until the
+long hand advanced by one mark.
+
+A second hand moved across a smaller dial below it.
+
+Four clicks later, a bell sounded.
+
+The clock did not resemble the sealed cases Elias had seen elsewhere in
+the Institute. Its face occupied only the upper corner. The working
+parts spread openly beneath it: six brass gears, two wound cords, a
+weighted arm, and a row of pins that lifted and fell as the hands moved.
+Each axle entered the wooden backing through a dark round hole.
+
+Mira said nothing.
+
+Elias watched another cycle.
+
+The smallest gear turned fastest. Its teeth met a broad wheel that
+carried the long hand. Each full turn of the small gear accompanied one
+advance on the clock face. The lower dial moved through a thinner wheel
+on the same side. At the fourth advance, a pin near the upper edge rose
+and the bell sounded.
+
+He drew the parts and added arrows for their directions.
+
+"The small gear drives the clock," he said.
+
+Mira wound the cord once more.
+
+Elias watched for evidence against his explanation. When the small gear
+slowed, the hand slowed. When it stopped, everything visible stopped.
+When Mira released the clock, the first motion again appeared at one of
+its teeth.
+
+The sequence repeated until he could look at any one part and predict
+which part would move next.
+
+Small gear. Broad wheel. Long hand. Lower wheel. Bell pin.
+
+He wrote the order beside the drawing.
+
+"Now?" Mira asked.
+
+"The small gear sets the movement. It drives the broad wheel, which
+moves the hand. The lower wheel keeps a second count. The raised pin
+rings the bell every fourth step."
+
+Mira pointed to the small gear. "Remove it."
+
+Elias looked from her finger to the clock. "While it is wound?"
+
+"No."
+
+She stopped the device and let the tension out of the cord. The silence
+after so many clicks made the workshop seem larger.
+
+"What will happen?" she asked.
+
+"Nothing. Without the first gear, the broad wheel cannot turn. Both
+hands will stop and the bell will not ring."
+
+"Write it."
+
+Elias recorded the prediction beneath his arrows.
+
+The gear was held by a pin with a flat head. He pulled the pin free,
+lifted the small wheel from its axle, and placed it in a shallow wooden
+tray. The empty axle looked slight and unfinished.
+
+"Ready," he said.
+
+Mira wound the clock.
+
+The broad wheel turned.
+
+The long hand advanced by one mark.
+
+Elias leaned close to the empty axle. Nothing touched it. Behind the
+wooden frame, something he could not see continued to carry the broad
+wheel forward.
+
+The lower dial did not move.
+
+One click. Two. Three. Four.
+
+The pin rose. The bell sounded.
+
+The missing gear remained in its tray.
+
+"Again," Elias said.
+
+Mira allowed the clock to complete another four steps. The main hand
+advanced. The bell sounded at the same interval. The lower dial stayed
+at its starting mark.
+
+Elias crossed out his prediction.
+
+"I had the direction backward," he said. "The small gear was not driving
+the broad wheel. The broad wheel was driving it—or both were receiving
+movement from something behind the frame."
+
+"Which?"
+
+He looked at the dark holes where the axles entered the wood. "I do not
+know. Removing the gear does not distinguish those explanations."
+
+"What does it distinguish?"
+
+"The main hand and bell do not require this gear under these conditions.
+The lower dial does."
+
+Mira touched the still hand on the lower dial. "Does?"
+
+Elias corrected himself. "Removing the gear changed the lower dial. That
+is evidence that the gear has a causal role in its movement. I have not
+shown that the dial could never move without it."
+
+The caution did not weaken the result. It made the boundary visible.
+Repeated observation had shown the small gear moving with every part of
+the clock. One deliberate absence had separated what continued from
+what did not.
+
+Elias picked up the gear but did not replace it yet.
+
+"Observation gave me possible explanations," he said. "Changing the
+system tested them."
+
+"What did you change?"
+
+"One part. Deliberately."
+
+"And learned?"
+
+"A stronger claim about its causal role than motion alone allowed."
+
+Mira nodded toward the sentence he had written.
+
+"Deliberately changing one part tested its causal role more strongly
+than observation alone," Elias said.
+
+"That deliberate change is an intervention," Mira said.
+
+The term had emerged from the empty axle, but the empty axle did
+not explain the whole clock. Elias still did not know what drove the
+broad wheel behind the wooden frame. He did not know whether removing
+the gear had altered resistance elsewhere, or what another missing part
+would change.
+
+He fitted the gear back onto its axle and replaced the pin.
+
+The clock ran again. This time the lower dial moved with the others. Its
+return did not erase what the absence had shown.
+
+"If I removed the broad wheel next—" Elias began.
+
+"Would that answer everything?" Mira asked.
+
+"No. It would test another change. Each result would remain partial."
+
+He closed the notebook before the list of possible removals became a new
+kind of completeness.
+
+The clock was useful because its parts could be separated and replaced.
+That did not make a mind or a model into clockwork. An internal pattern
+might be distributed across many parts, and changing one could alter
+several relationships at once. The missing gear was an experiment, not
+a universal picture.
+
+Mira stopped the clock with one finger on the weighted arm.
+
+"What was the gear useful for?" she asked.
+
+"For moving the lower dial in this device, under this setting."
+
+"Only here?"
+
+Elias looked at the reassembled gears. The same internal organization
+now served the long hand, the lower dial, and the bell. A part's role had
+become clearer only after the task was named.
+
+He set the removable gear's empty tray beneath the workbench. Its lesson
+was complete enough to leave there.
+
+Could a useful internal organization survive a new task or setting?
