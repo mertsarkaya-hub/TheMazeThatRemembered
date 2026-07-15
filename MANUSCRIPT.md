@@ -2756,3 +2756,185 @@ Their paired lesson was finished. The question was not.
 
 If every internal part were visible, would understanding become
 automatic?
+
+## Chapter 14 — The Transparent Machine
+
+Light passed through the machine and multiplied its parts.
+
+The case was made of clear glass. Behind its front wall, brass wheels
+overlapped in reflection with the wheels behind them. Thin rods crossed
+their own pale images. Two cords descended through a row of levers, and
+a chain of small wooden bars ran from the input slot to a forked track at
+the bottom.
+
+Every axle, tooth, joint, and pin was visible.
+
+"At last," Elias said.
+
+Mira stood on the other side of the case. Her reflection appeared beside
+her, faint and slightly displaced.
+
+On the bench lay three tiles: one with a single notch, one with two, and
+one with a smooth edge.
+
+Mira inserted the one-notched tile.
+
+The entire case seemed to move. A wheel near the input turned half a
+circle. Two rods lifted. A cord tightened at the rear. Three bars shifted
+in sequence along the floor. Near the center, a narrow latch dropped to
+the left and remained there while the other parts became still.
+
+Mira inserted the smooth tile.
+
+A brass bead fell from the top of the case, struck a small gate, and
+rolled into the left branch of the forked track.
+
+The machine reset.
+
+She repeated the trial with the two-notched tile. Wheels turned in the
+opposite direction. One cord slackened while another tightened. The
+same three floor bars moved, though Elias could not tell whether they
+moved in the same order. The central latch shifted to the right.
+
+The smooth tile released another bead.
+
+It rolled right.
+
+"I can see all of it," Elias said.
+
+"Then explain it."
+
+He opened the notebook.
+
+The first wheel had sixteen teeth. The second appeared to have twelve,
+though two were obscured by a reflected rod. One cord was darker than
+the other. A pin near the rear lever rose during both trials. The lower
+left bar moved before the lower right, except perhaps when the
+two-notched tile was used. The bead struck the gate slightly above its
+center.
+
+Elias wrote until the page resembled the crowded garden notes.
+
+Mira ran both trials again. More details became available. A thin wheel
+near the back reversed twice. The right cord trembled after the latch
+stopped. A wooden bar beneath the track moved even though the bead never
+touched it.
+
+The glass denied him nothing and organized nothing.
+
+"The machine is more difficult when it is open," he said.
+
+"It is not open."
+
+He touched the glass. "Visible, then."
+
+"Which visible detail answers your question?"
+
+Elias looked at his page. "I have not chosen one question."
+
+"Choose."
+
+He crossed out nothing. The details might matter later. On a clean page
+he wrote: *Why does the same smooth tile send the bead left after one
+history and right after another?*
+
+The question reduced the machine without hiding it. Elias no longer
+needed to begin with every tooth. He needed to follow what differed
+after the preparatory tile and remained present when the smooth tile
+arrived.
+
+"Again," he said.
+
+Mira inserted the one-notched tile.
+
+Elias ignored the bright rear wheel. He followed the chain from the
+input slot to the center. The first tile pulled a short bar. The bar
+turned a wheel. The wheel lowered the latch to the left.
+
+Then everything connected to the input settled, but the latch stayed.
+
+"Stop."
+
+Mira held the smooth tile above the slot.
+
+The machine's visible state was now quieter. Many parts had returned to
+their starting positions. The latch had not.
+
+"It carries the difference forward," Elias said.
+
+Mira waited.
+
+"Hypothesis: the first tile sets the latch. The latch preserves a useful
+part of that history. When the same smooth tile releases the bead, the
+latch changes the gate and therefore the branch."
+
+"Test?"
+
+The latch had a small opening at its center. Elias selected a narrow
+wooden stop from the tools and slid it through a matching hole in the
+glass side. The stop held the latch to the left.
+
+He wrote his prediction: *With the latch held left, both preparatory
+tiles should produce a left bead after the smooth tile.*
+
+Mira reset the machine.
+
+One notch. Smooth.
+
+The bead rolled left.
+
+The machine reset as far as the stop allowed.
+
+Two notches. The wheels and rods moved. The right cord tightened. The
+latch tried to shift, pressed against the wooden stop, and remained
+left.
+
+Smooth.
+
+The bead rolled left.
+
+Elias removed the stop. They repeated the two-notched trial. The latch
+moved right and the bead followed the right branch again.
+
+"The intervention supports the latch's causal role," he said.
+
+"Explains the machine?"
+
+"No. It explains part of the behavior I asked about. I still do not know
+why the two preparatory tiles move the latch differently, how the reset
+returns it, or what many of the visible wheels contribute."
+
+He reviewed the evidence. The input chain reached the latch, and the
+latch reached the gate. The latch's position persisted between the
+preparatory input and the smooth one. Holding it fixed removed the
+difference between the two outputs.
+
+Together, those observations supported a provisional account. None had
+been supplied by glass alone.
+
+"The effort to understand an internal process is interpretability,"
+Mira said. "Visibility by itself is not explanation."
+
+The term belonged not to the case but to the work Elias had done around
+it: choosing a question, building a model, following changes, testing a
+causal role, and leaving the untested parts open.
+
+He moved to the side of the bench. From there the late light struck the
+glass at a shallower angle. Reflections that had hidden the central latch
+faded, while other parts disappeared into brightness. No single view
+showed everything equally well. More access had helped only after he
+knew what relation he needed to examine.
+
+"A mind is not this case," Elias said. "And making something visible
+does not make the right question visible."
+
+Mira laid a plain workshop cloth over the glass.
+
+The literal machine vanished, but Elias's account did not. It remained
+in the notebook as a question, a hypothesis, evidence, an intervention,
+and a list of uncertainties.
+
+He trusted it more than his first explanations of the crow. He did not
+trust it as a final answer.
+
+What made a provisional explanation worth trusting?
