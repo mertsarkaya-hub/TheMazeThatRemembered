@@ -1348,3 +1348,154 @@ more than one direction.
 
 If meaning lay in a pattern of relationships, which arrangements were
 close to one another?
+
+## Chapter 7 — Distances
+
+The light from the library's high windows divided the long table into
+bright and shadowed squares.
+
+Within them, Mira placed four unlabeled books and six objects: a brass
+key, an iron hinge, a wooden wedge, a knotted measuring cord, a small
+weight, and a round glass lens.
+
+"Arrange them," she said.
+
+"By what rule?"
+
+"Put things used in similar ways near one another."
+
+Elias opened the books. One contained drawings of locks and doors. One
+showed fitted joints in wood. The third held diagrams of balances and
+marked lengths. The last reproduced leaves, insects, and tiny parts of
+flowers in careful detail.
+
+He began with material. Key, hinge, and weight formed a row of metal.
+The wedge stood alone as wood. The lens took another place as glass.
+He set the books together because they were paper.
+
+Mira walked to the other side of the table. "What does this tell me?"
+
+"What each thing is made from."
+
+"What is it used for?"
+
+Elias looked at the metal row. The key opened, the hinge joined, the
+weight measured. Their nearness now concealed the relation he had been
+asked to show.
+
+He separated them.
+
+The book of locks went beside the key. The book of joints went beside
+the wedge. He placed the hinge with them, then changed his mind and set
+it beside the lock book. The measuring cord and weight went near the
+book of balances. The lens belonged with the book of detailed drawings.
+
+This produced four clean groups.
+
+"The hinge," Mira said.
+
+"With the lock book."
+
+"Why?"
+
+"A door may use both."
+
+"And the book of joints?"
+
+Elias moved the hinge to that group. "It joins two parts."
+
+"The cord?"
+
+"Measurement."
+
+"Only measurement?"
+
+He picked it up. A cord could measure a length, mark a line for joining
+wood, or bind pieces temporarily while they were fitted. One defining
+use lost the others.
+
+The bright squares on the table had encouraged him to make islands. He
+moved the cord to the boundary between the measurement book and the
+book of joints. Then he removed the boundary by shifting the books
+themselves.
+
+The lock book and the joinery book came closer. The hinge rested between
+them, nearer to each than to the measuring book. The key remained
+closest to the lock book and farther from joinery. The wedge stayed close to
+joinery. Elias placed the cord between joinery and measurement, a
+little nearer measurement because of its knots.
+
+The weight sat beside the diagrams of balances. The lens remained near
+the detailed drawings, but not as near as the key was to locks. A lens
+could help with many kinds of close inspection; it did not belong only
+to leaves and insects.
+
+He stepped back.
+
+There were no categories now. There were neighborhoods, overlaps, and
+gaps. The hinge's position said more than *door* or *joint* alone. The
+cord belonged partly to two uses. The isolation of the lens did not
+make it meaningless; it showed that the other items shared less with
+it under the question Mira had asked.
+
+As the light shifted across the table, Elias walked around to Mira's
+side. From there the arrangement no longer seemed scattered. Each gap
+answered a quiet question: more like which, less like what, useful
+together in what way?
+
+"Better," he said.
+
+Mira picked up the hinge.
+
+She carried it past the cord and set it beside the weight.
+
+"What changed?" she asked.
+
+"The hinge did not."
+
+"What changed?"
+
+Elias looked at the new arrangement. Beside the weight, the hinge now
+appeared to share the use of measurement. It stood far from locks and
+joinery, as though opening and joining had little to do with it.
+
+"The relationship the table expresses," he said. "You changed one
+distance, and that changed what the arrangement says the hinge is like."
+
+"Did I change its iron?"
+
+"No. You changed its place among the others."
+
+He returned the hinge to the region between the two books. The table's
+meaning settled back into place.
+
+The arrangement showed Elias that a distributed pattern was not merely
+many parts existing at once. Their relationships carried structure.
+Nearness and separation could organize meaning that no item revealed
+alone.
+
+"Meaning organized through relationships and distances among
+representations is representational geometry," Mira said.
+
+Elias looked down at the key and hinge. "Geometry without measured
+inches?"
+
+"Must distance always be physical?"
+
+The question loosened the table from the idea it supported. The pieces
+needed literal inches because they were objects. An internal pattern
+did not require a wooden surface or visible space. Its distances could
+be relational: which patterns were more alike, which less, which uses
+they brought near one another.
+
+"So the table is only making the relationships visible," he said.
+
+"For now."
+
+The light reached the face-down labels at the end of the table. Their
+names remained hidden, yet the arrangement before Elias was readable.
+It had a structure independent of those names.
+
+He imagined another table whose objects carried different labels and
+different materials. If its internal relationships formed the same
+arrangement, how could the two systems be compared?
