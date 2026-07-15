@@ -2938,3 +2938,202 @@ He trusted it more than his first explanations of the crow. He did not
 trust it as a final answer.
 
 What made a provisional explanation worth trusting?
+
+## Chapter 15 — The Maze That Remembered
+
+The maze entrance was unchanged.
+
+The same pale walls narrowed toward the first turn. Rain had dried from
+their upper edges, leaving the stone lighter near the sky. The path held
+no mark for visitor, apprentice, or steward.
+
+Mira stopped outside. "Lead."
+
+Elias entered.
+
+At the first fork, he did not ask which passage was correct. He asked
+where each would place him in the model he carried. The right path
+belonged to the early route with repeated turns. The left joined the
+wider passage he had used after the library arrangement failed.
+
+He chose left.
+
+The walls hid most of the maze, but they no longer erased it. Behind the
+visible turn, Elias carried relationships among junctions, the order of
+previous steps, and hypotheses about where the paths met. Each new view
+updated that account.
+
+He expected two close turns.
+
+The first arrived. The second did not.
+
+The passage continued farther than his remembered arrangement allowed.
+For a moment he felt the old temptation to blame the page, the route,
+anything that would preserve the answer already formed.
+
+"My model is wrong here," he said.
+
+Mira came beside him. "How?"
+
+"I treated two approaches as if their distances were the same. The
+relationship survived; the scale did not."
+
+"Then?"
+
+"Keep the connection. Revise the distance."
+
+He continued without searching for the notebook. The correction was not
+a new certainty. It was a change constrained by the path under his feet.
+
+The delayed turn opened onto a narrow corridor. A faint sound of water
+came from beyond the wall. Elias predicted that the corridor would
+reach the paired junctions from their outer side. If it ended at a wall,
+he would revise again.
+
+It bent once and joined the expected passage.
+
+He felt satisfaction, then checked it. One successful prediction
+supported the model; it did not complete the maze.
+
+At the next division, Mira looked toward him rather than toward either
+path.
+
+"The cracked junction should be beyond the longer corridor," Elias
+said. "But there are two routes to it. We have tested one from this
+approach."
+
+"Which should we take?"
+
+*We.*
+
+Elias chose the route whose middle section remained uncertain. It moved
+away from the familiar wall, crossed two turns he could place only
+approximately, then returned them to the square with the narrow crack.
+
+The shallow chip remained beside its lower end.
+
+Nothing in the stone recognized him. The junction did not offer the
+history of how he had arrived, the state he carried, or the relations he
+had used. It was the same physical place that had once seemed to contain
+its own answer.
+
+Elias saw more now because he brought more—not more facts about every
+stone, but a provisional organization of paths, histories, and possible
+changes. The model had remembered the maze. The maze had remembered
+nothing.
+
+They left by a route Elias had not predicted in advance. He followed it
+as another test, revising the connections he carried whenever a turn
+failed to match.
+
+When they reached the entrance, the stone walls looked no different
+from when they had gone in.
+
+Elias did.
+
+* * *
+
+The crow was standing among four spoons in the courtyard.
+
+The long silver spoon held a strip of afternoon light. The smaller spoon
+was dull. The blackened bowl reflected the wall, and the fourth handle
+remained bent.
+
+Elias stopped beneath the archway.
+
+The crow stepped over the silver spoon and pecked twice at the blackened
+bowl. It moved to the dull spoon, placed one foot on its handle, then
+lifted it in its beak. The spoon scraped across the stone. The crow
+dropped it, turned toward the upper windows, and gave one dry call.
+
+Mira took the chair beneath the covered walk.
+
+Elias sat opposite her and opened the notebook.
+
+He found the first crow page. The crossed-out explanations remained in
+their grooves. He turned past them to a blank sheet and wrote only what
+had happened.
+
+*The crow stood beside four spoons. It stepped over the silver spoon. It
+pecked the blackened bowl twice. It placed one foot on the dull spoon's
+handle. It lifted the dull spoon. The spoon scraped the stone. The crow
+dropped it. It looked toward the upper windows. It called once.*
+
+The crow moved to the far end of the wall.
+
+"Why the dull spoon?" Mira asked.
+
+Elias looked at the record before looking at the spoons.
+
+"It may have been easier to grip from where it stood. It may have
+encountered that spoon before. Something near the window may have
+changed its action. The blackened bowl may have drawn its attention
+first. Or the relevant cause may not be visible to us."
+
+"Which answer?"
+
+"None yet. They are hypotheses constrained by the observation, not the
+crow's explanation."
+
+Mira waited.
+
+Elias turned the pencil between his fingers. "We could change the
+spoons' positions and record whether the choice follows an object or a
+place. We could compare repeated encounters and keep the history. We
+could change one visible relation at a time and predict what each
+hypothesis would lead us to expect."
+
+"Would that reveal everything?"
+
+"No. Each intervention would distinguish some explanations and leave
+others. The model would remain provisional."
+
+The crow hopped down into the courtyard. It crossed the stones without
+approaching the spoons again, spread its wings, and rose beyond the
+upper wall.
+
+Elias did not follow it with an answer.
+
+Mira looked at the open notebook. "What answer will you take from the
+Institute?"
+
+He had imagined this moment before he arrived: a final sentence, concise
+enough to carry away, certain enough to prove he belonged. The desire
+had not disappeared because certainty was foolish. It had changed
+because certainty could end the work too soon.
+
+"A way of continuing," he said. "Build a provisional model from
+observation. Ask what it predicts. Test causal claims by changing
+something. Revise when the evidence requires it. Then ask a better
+question."
+
+"Scientific thinking," Mira said.
+
+The term did not close the notebook. It named the responsibility to keep
+improving what the notebook held.
+
+"And your better question?" she asked.
+
+Elias wrote:
+
+*What evidence would distinguish these explanations, and what result
+would make us revise the one we trust most?*
+
+Mira leaned closer to read it. "What should we examine first?"
+
+She was no longer placing a lesson before him. The inquiry belonged to
+both of them, and Elias was responsible for helping decide where it
+went.
+
+"First, the work already done," he said. "The Institute's demonstrations
+do not replace the real NeuroAI literature. We should read its evidence,
+models, and disagreements before designing a test that can add
+something."
+
+"And then?"
+
+"Return with a question the evidence can change."
+
+He turned the written page.
+
+Beyond it, the notebook held many blank pages.
