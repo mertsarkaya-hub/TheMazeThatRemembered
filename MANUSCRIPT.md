@@ -2584,3 +2584,175 @@ reveal what had happened inside the traveler.
 
 Could two systems reach the same answer through different internal
 processes?
+
+## Chapter 13 — The Same Answer
+
+The two machines answered together.
+
+Each had a circular dial with one resting mark and three answer lines.
+
+Elias inserted a one-notched wooden tile into each. Mira turned both
+handles. Two brass pointers moved from their resting marks to the first
+line on their dials.
+
+The clock from the previous experiment ticked on a bench behind them.
+
+Elias removed the tiles. The pointers returned to rest. At the end of
+the return, a narrow brass pin rose from the top of each machine, paused,
+then dropped flush with the wooden case.
+
+He tried a three-notched tile.
+
+Both pointers stopped at the third line.
+
+Two notches produced the second line. One produced the first again.
+
+The machines were the same size, but they had not been made to look
+identical. The left case used dark wood and square joints. The right was
+pale and rounded at the corners. Their dials used different marks. Their
+handles turned through different arcs.
+
+The answers remained the same.
+
+"Different surfaces," Elias said. "Same computation."
+
+Mira placed the three tiles in a row. "Observed?"
+
+"Same behavior," he corrected. "But repeated across every input we have
+used."
+
+"Enough to know the interiors?"
+
+He looked at the pins. They rose at the same moment. The pointers moved
+with the same timing. Even the return to rest took the same number of
+clicks.
+
+"It is strong evidence."
+
+"For?"
+
+"For the same organization inside."
+
+Mira moved the machines farther apart. "Test it."
+
+Elias waited for her to open the cases.
+
+"Design the test," she said.
+
+He walked once around the bench. Each machine offered the same limited
+points of contact: input slot, handle, pointer, and the narrow pin that
+rose after an answer. Changing the tiles had not separated them. Turning
+one handle more slowly changed the timing but not the final mark.
+
+The pin was different. It appeared after every answer and just before
+the pointer returned to rest. If it had the same causal role in both
+machines, removing it should have the same effect.
+
+"The pins," he said.
+
+"Prediction?"
+
+"If the internal processes are the same, removing the corresponding pin
+from each should change the answers in the same way."
+
+"And if the effects differ?"
+
+"Then matching behavior has concealed a difference inside."
+
+Mira handed him a narrow tool.
+
+Elias stopped both machines. Each pin was held by a small crosspiece. He
+released the crosspieces, pulled the pins free, and placed them beside
+their machines. The pins matched in length and thickness.
+
+He wrote the intervention and prediction before continuing.
+
+One-notched tile.
+
+Mira turned the left handle. The pointer trembled at rest but did not
+advance.
+
+She turned the right handle. Its pointer reached the first line as
+before.
+
+Elias looked at the two removed pins. "Different already."
+
+"Enough?"
+
+He remembered the missing gear. One changed behavior did not complete
+an explanation.
+
+"Again."
+
+They inserted a two-notched tile.
+
+The left pointer remained at rest.
+
+The right pointer moved past the second line and stopped at the third.
+
+"It carried the first answer forward," Elias said.
+
+Mira inserted the three-notched tile next. The right pointer moved from
+the third line, crossed the end of the dial, and returned to the second.
+
+The normal machine had answered each tile from rest. Without its pin,
+the right machine no longer returned its prior state to the starting
+condition. The left pin had served a different role: without it, the
+input produced no visible answer at all.
+
+"Put the pins back," Elias said.
+
+He restored both. One notch led to first on each. Two led to second.
+Three led to third. The shared behavior returned.
+
+Mira folded her hands on the bench. "Same computation?"
+
+"No. At least not throughout. The left machine depends on its pin to
+carry the input into the pointer's movement. The right uses its pin to
+return something to rest between trials."
+
+"Do you know every internal relation?"
+
+"No. I know that these causal roles differ. That is enough to reject my
+claim that matching answers require the same internal process."
+
+Elias drew two arrows beneath the machines. On the left, the pin lay
+within the path to the output. On the right, it lay after the output and
+before the next input. The drawings were hypotheses constrained by the
+interventions, not views through the wood.
+
+"The internal process that produces behavior is a mechanism," Mira
+said. "Matching behavior does not uniquely identify it."
+
+Elias wrote *mechanism* beneath both drawings, not between them. The word
+did not belong to the answer alone. It belonged to the process that made
+the answer.
+
+The result required caution in both directions. The machines were not
+fully equivalent because their answers matched. They were not fully
+different because one intervention separated them. They still shared
+the tested input-output behavior, and they might share other internal
+relations he had not examined.
+
+"Two constructions can support the same answer," Elias said.
+
+He ran his hand over the dark square joint of the left case, then the
+rounded pale corner of the right. The wood made their construction
+visible at the surface, but the decisive difference had appeared only
+when he changed the pins and followed what happened across trials.
+
+"Could I open them now?" he asked.
+
+"Would that finish the inquiry?"
+
+He almost said yes. The cases seemed to stand between him and certainty.
+If every bar, wheel, and pin inside were exposed, perhaps the remaining
+questions would become observations.
+
+Mira covered the two machines with a plain cloth and moved them to the
+end of the bench.
+
+Their paired lesson was finished. The question was not.
+
+If every internal part were visible, would understanding become
+automatic?
