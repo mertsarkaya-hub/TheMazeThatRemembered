@@ -1949,3 +1949,231 @@ but traveled through them in different orders. A still comparison could
 not distinguish them. Attention had to remain with the motion.
 
 How could two different dances be compared?
+
+## Chapter 10 — The Dance Between Notes
+
+Two lines of light crossed the workbench at different angles.
+
+In one, Mira placed a narrow device no longer than Elias's hand. A brass
+slider rested in a straight groove marked by twelve small cuts. The
+second device occupied the other line of light. Its groove was wider,
+longer, and set upright on a wooden frame. A dark marker could travel
+between twenty-four cuts.
+
+The devices shared no labels. The short one used small circles beside
+its marks. The tall one used lines of unequal length. Their starting
+positions did not align, even when Elias lowered his eye to the bench.
+
+Between them lay ten thin metal bars arranged in two rows. When Mira
+tapped one with a wooden handle, it gave a clear note.
+
+She moved the short device's slider to its second cut.
+
+A low note.
+
+The slider moved four cuts to the right.
+
+A higher note.
+
+It returned two cuts.
+
+A middle note.
+
+It advanced six cuts.
+
+The highest note in the sequence.
+
+Then it moved back four and stopped.
+
+A note lower than the last but higher than the first.
+
+Elias wrote the five slider positions in one row and the notes beneath
+them. He drew small circles exactly as they appeared on the device.
+
+"Again?" Mira asked.
+
+"I have it."
+
+She turned to the tall frame.
+
+Its marker began at the nineteenth cut. Mira tapped a note from the
+upper row that did not appear in the first sequence. She moved the
+marker eight cuts upward and tapped another unfamiliar note. Then she
+lowered it four, raised it twelve, and lowered it eight.
+
+The sequence ended near the top of the frame.
+
+Elias looked between his record and the two devices. None of the tall
+device's positions matched a position on the short one. Its notes were
+all higher. Even the marks had different shapes.
+
+"They are not comparable," he said.
+
+Mira lifted the tapping handle but did not strike a bar.
+
+Elias corrected himself. "Not by their labels."
+
+"How else?"
+
+He began with the notes. The first low note might correspond to the
+lowest note of the second sequence, but the second sequence had begun in
+a different range. He tried matching the highest notes. That paired the
+fourth event of the first sequence with the second event of the other.
+The events before and after no longer agreed.
+
+He crossed out the pairing.
+
+Next he tried positions. The short slider's second cut was near the left
+end, while the tall marker's nineteenth was near the top. Perhaps both
+were only starting points. But the next positions occupied different
+portions of their grooves, and the final positions shared nothing
+visible.
+
+"The maps in the observatory had fixed relations within each system,"
+he said. "Here every relation keeps changing."
+
+Mira tapped the first low note again.
+
+Silence followed.
+
+She tapped the second note.
+
+Another silence.
+
+The pause between them seemed longer now that the devices were still.
+
+Mira repeated the first two notes, leaving the same space between them.
+Then she tapped the first two notes of the higher sequence.
+
+Elias listened for a shared pitch and found none.
+
+She repeated both pairs.
+
+Low to high.
+
+Higher to higher still.
+
+The notes themselves differed, but each second note rose from the first.
+
+"They both move upward," he said.
+
+Mira waited through one more silence.
+
+She tapped the first three notes of the lower sequence: rise, fall part
+of the way.
+
+Then the first three of the higher sequence: rise, fall part of the
+way.
+
+Elias drew arrows instead of note names. A long arrow up. A shorter
+arrow down.
+
+Mira added the fourth note to each sequence. In both, the new rise was
+larger than the earlier one. The fifth note fell by the same relative
+amount as the first sequence's final note, though the pitches never met.
+
+"The changes correspond," Elias said.
+
+Mira set down the handle.
+
+Elias returned to the devices. The short slider had moved right by four,
+left by two, right by six, left by four. The tall marker had moved up by
+eight, down by four, up by twelve, down by eight.
+
+Every movement on the tall device was larger. None reached the same
+place. Yet the sequence of changes preserved the same proportions and
+the same reversals.
+
+He placed one finger at each starting point.
+
+"This goes four, back two, forward six, back four," he said, following
+the short groove. "The other goes twice as far at every step. If I pay
+attention only to the positions, they never match. If I compare how each
+position changes from the one before it, the paths have the same
+structure."
+
+"Show me."
+
+Elias moved both markers together. His left hand advanced four cuts
+while his right advanced eight. Left returned two; right returned four.
+Left advanced six; right advanced twelve. Both hands returned.
+
+The devices ended in different places, but his hands had performed the
+same sequence at different scales.
+
+"Again," Mira said.
+
+He reset the markers. This time she tapped the notes while he moved. The
+low sequence accompanied his left hand, the higher sequence his right.
+The pitches did not match the positions, and the positions did not match
+one another. Still, each rise, reversal, larger advance, and return
+occurred in the same order.
+
+Strain gave way so quietly that Elias noticed only when he stopped
+trying to force a shared snapshot. The two systems could remain
+different at every moment and still carry a comparable pattern through
+time.
+
+Mira drew the line of light away from the short device by closing a
+shutter halfway. Its groove dimmed. The taller device remained bright.
+
+"If you saw only the final positions?" she asked.
+
+"I might find no similarity."
+
+"Only the first and highest notes?"
+
+"I might match the wrong events."
+
+"What survives?"
+
+"The relationships among the changes. The structure of the two
+trajectories."
+
+Mira opened the shutter. Light moved back across the short groove until
+both devices were visible.
+
+"Comparing different systems through relationships among their evolving
+trajectories rather than isolated states is dynamic similarity
+analysis," she said.
+
+Elias wrote the term beneath his arrows.
+
+The phrase was longer than the insight felt. A snapshot asked where each
+system was. A trajectory comparison asked how each one changed relative
+to itself, then whether those patterns of change corresponded.
+
+He moved the devices once more without notes. The two markers separated
+across the workbench, reversed, separated farther, and returned. Their
+positions never touched. Their motions remained legible together.
+
+"Two dances," he said.
+
+Mira looked at the sliders.
+
+"No," Elias said. "That word has done enough. It brought the movement
+back between the poses, but these devices have no intention and the
+comparison needs none. They are trajectories."
+
+He drew the two paths on separate parts of the page, one small and one
+large. The drawings no longer resembled a series of poses. Arrows and
+spacing preserved their ordered changes.
+
+"Why do they follow the same structure?" Mira asked.
+
+Elias looked under the tall frame. Its working parts were enclosed. The
+short groove revealed little more.
+
+"I do not know."
+
+"But you watched carefully."
+
+"I know how they moved. Similar movement does not tell me what made them
+move that way."
+
+He could observe both trajectories again, more slowly, in stronger
+light, with longer pauses between the notes. None of that would turn the
+shared pattern into an explanation.
+
+If observation of movement was still not explanation, what had to be
+changed to learn more?
