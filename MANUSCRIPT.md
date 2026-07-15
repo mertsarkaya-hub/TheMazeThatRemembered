@@ -1678,3 +1678,112 @@ the idea beyond it.
 He left the second map open beneath the returning light.
 
 What was lost when a changing system was frozen into a still map?
+
+## Interlude
+
+Rain filled the courtyard before Elias could cross it.
+
+He stopped beneath the covered walk and sat at the wooden table where
+Mira had first given him the notebook. Water struck the roof in a broad,
+steady sound. Beyond the shelter, drops broke against the stones, the
+wall, and the iron gutter at the edge of the walk.
+
+Each surface answered differently.
+
+Elias opened the notebook.
+
+The first page was untidy. Two sentences had been crossed out hard
+enough to leave grooves in the paper.
+
+*The crow wanted the brightest spoon.*
+
+*The crow wanted the spoon it could carry.*
+
+Beneath them, the smaller sentences remained: stepped, pecked, looked,
+picked up, dropped. He could still feel the effort it had taken to write
+less.
+
+Rain gathered along the outer edge of the roof. One drop grew until its
+weight pulled it free. Another began in the same place.
+
+Elias turned the page.
+
+His first maze notes were lists of turns. Right, left, right, then a
+correction squeezed into the margin. The crack at the junction appeared
+three times, each drawing nearly identical. Beside the second, he had
+written *same view, different choice*. Beside the third was a rough
+outline of a backpack with nothing visible inside it.
+
+The garden pages followed. They were crowded with leaf counts, soil,
+stones, a beetle, the scent of rosemary, and the edge of the wall's
+shadow. Then came the clean page with six positions and the order in
+which the flowers closed.
+
+At the time, the crowded pages had seemed like protection. Now they
+looked less like care than fear of choosing what mattered. He was glad
+he had kept them. The beetle might yet belong to some other question.
+
+The rain softened. Separate sounds emerged from the broad noise: a drip
+from the gutter, a thin stream at the wall, water ticking against one of
+the iron brackets beneath the roof.
+
+Elias turned to the workshop drawings.
+
+Four marks circled a wheel. Arrows carried one position into the next.
+The first sequences were smudged where his finger had followed them;
+the later ones were written without correction. He had drawn the one-
+and two-notched slats only once. What mattered across the rest of the
+page was where the wheel had already been.
+
+The library occupied more paper. Books became points. Points became
+distances. Two arrangements appeared on facing pages, their names
+covered in the sketch by small empty squares. He had joined nothing
+with lines, yet the relationships held the shapes together.
+
+Elias laid the notebook flat.
+
+On the earliest pages, he had written statements before questions. He
+had arrived expecting the Institute to hide an answer somewhere behind
+a door, in a book, perhaps in Mira's silence. The interview had seemed
+designed to discover whether he could find it quickly.
+
+The later pages did not look like an answer being assembled. Their
+margins contained questions that pointed beyond the drawings.
+
+*What did the state carry?*
+
+*Which relations remained?*
+
+*What did the maps leave out?*
+
+The notebook had changed without becoming more complete. Its first
+blank pages had waited for conclusions. The blank pages that remained
+now seemed to wait for better observations.
+
+Elias looked across the courtyard. Rain blurred the far archway, but it
+also darkened every joint between the stones. Details disappeared and
+others emerged. He could not notice everything at once. As the rain
+altered the scene, he chose what to look at again.
+
+The thought did not feel like another test passed. It felt like the work
+of an apprentice: observe, ask, carry something forward, then look
+again.
+
+For several minutes he did not write.
+
+Mira was nowhere in the courtyard. Earlier, her absence would have felt
+like another withheld instruction. Now it left him responsible for the
+next mark on the page. He listened until he knew what he wanted to ask.
+
+The rain moved east across the roof. Its sound lightened above him while
+remaining heavy over the courtyard. Shallow channels between the stones
+brightened as water passed through them.
+
+Elias returned to the paired maps. Each held a still arrangement. The
+page before it held another. Between the two was only the act of turning
+paper, a gap the drawings did not describe.
+
+He placed his fingertip at the lower corner of one page and lifted it,
+but did not turn it yet.
+
+What changed between one still page and the next?
