@@ -2,7 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 1.1
+Version: 1.2
+
+Status: Frozen Orientation Document at `spec-v1.0`
 
 ---
 
@@ -76,7 +78,7 @@ It is respect for the reader's attention.
 
 The novella should be readable over two or three evenings and remain memorable for years.
 
-Target form:
+Required manuscript range:
 
 - 25,000–35,000 words
 - approximately 100–120 printed pages

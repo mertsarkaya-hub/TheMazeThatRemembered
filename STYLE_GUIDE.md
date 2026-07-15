@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Frozen Before Draft One
+Status: Frozen at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -28,9 +28,24 @@ Readers should notice the ideas, not the prose.
 
 ------------------------------------------------------------------------
 
+# Narrative Mechanics
+
+-   Close third-person limited through Elias.
+-   Simple past tense.
+-   No head-hopping and no access to Mira's private thoughts.
+-   The narrator may notice only what Elias could perceive or reasonably
+    infer.
+-   Standard double quotation marks for dialogue.
+-   Chapter headings use the numbered titles in CHAPTER_BLUEPRINTS.md.
+-   The interlude is headed `Interlude` and has no chapter number.
+
+These mechanics are immutable during drafting.
+
+------------------------------------------------------------------------
+
 # Desired Reading Experience
 
-The novel should feel like:
+The novella should feel like:
 
 -   entering an old library
 -   walking through a garden after rain

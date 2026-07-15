@@ -4,7 +4,9 @@
 
 *A literary scientific novella introducing NeuroAI through story.*
 
-Version: 1.1 (Pre-Manuscript)
+Version: 1.2 (Specification Freeze)
+
+Status: Frozen Orientation Document at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -58,12 +60,16 @@ Every page must earn its existence.
 The book should be readable over two or three evenings, yet remain
 memorable for years.
 
-**Target length**
+**Required manuscript range**
 
 -   25,000--35,000 words
 -   Approximately 100--120 printed pages
 
 Brevity is a feature, not a limitation.
+
+The word range is the drafting acceptance envelope. The page range is
+validated in final book design without padding or compressing the prose
+artificially.
 
 ------------------------------------------------------------------------
 
@@ -95,13 +101,16 @@ The reader discovers that they are the same journey.
 
 # Repository Philosophy
 
-Planning is frozen.
+The specification corpus is frozen at the `spec-v1.0` tag.
 
 Writing is iterative.
 
 Revision is expected.
 
 The architecture remains stable while the manuscript improves.
+
+Only MANUSCRIPT.md changes during drafting. See
+SPECIFICATION_FREEZE.md for the complete boundary.
 
 ------------------------------------------------------------------------
 
@@ -138,6 +147,13 @@ SCIENTIFIC_REVIEW.md
 PARKING_LOT.md
 
 MANIFESTO.md
+
+SPECIFICATION_FREEZE.md
+
+MANUSCRIPT.md
+
+All filenames are canonical and unversioned. Document versions are
+recorded inside the files.
 
 ------------------------------------------------------------------------
 

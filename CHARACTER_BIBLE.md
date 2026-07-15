@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Frozen Before Draft One
+Status: Frozen at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -37,6 +37,16 @@ No character exists merely to explain concepts.
 Reader surrogate.
 
 Readers should recognize their own learning process in him.
+
+He arrives seeking the Institute's definitive answer to how minds build
+models of reality and hoping to earn an apprenticeship by demonstrating
+quick understanding.
+
+His exact age, nationality, family history, and prior institution remain
+deliberately unspecified. Do not invent them during drafting.
+
+He is scientifically curious but possesses no prior knowledge of the
+major concepts in SCIENTIFIC_DEPENDENCY_MAP.md.
 
 ------------------------------------------------------------------------
 
@@ -80,6 +90,15 @@ Elias changes through failed assumptions.
 Experience precedes reflection.
 
 Reflection precedes growth.
+
+Visible progression:
+
+Visitor through Chapter 4.
+
+Apprentice from Chapter 5 through Chapter 14.
+
+Steward in Chapter 15 when he accepts responsibility for continuing the
+inquiry without demanding a final answer.
 
 ------------------------------------------------------------------------
 
@@ -129,6 +148,15 @@ She rarely answers directly.
 
 She redirects attention.
 
+Mira is skilled, not infallible.
+
+In Chapter 12 she expects an organization learned in one setting to
+carry directly into another. The first attempt fails. She acknowledges
+her assumption and revises the demonstration without defensiveness.
+
+This is her explicit act of scientific humility. Do not add a larger
+mistake or hidden backstory.
+
 ------------------------------------------------------------------------
 
 ## Dialogue
@@ -170,23 +198,8 @@ The crow teaches the difference between observation and explanation.
 
 # The Notebook
 
-Although an object, it functions as a cognitive companion.
-
-Evolution:
-
-Observations
-
-↓
-
-Patterns
-
-↓
-
-Questions
-
-↓
-
-Blank pages
+Although an object, it functions as a cognitive companion. Its exact
+Object, Tool, Concept, and Mirror stages are defined in SYMBOL_BIBLE.md.
 
 Its final state symbolizes ongoing inquiry rather than completed
 knowledge.
@@ -204,12 +217,27 @@ experiences.
 
 ------------------------------------------------------------------------
 
-# Minor Characters
+# Cast Boundary
+
+Draft One contains only two named human characters:
+
+-   Elias
+-   Mira
+
+The crow remains non-speaking.
+
+No named minor characters may be added. Unnamed background presence may
+be implied only when ordinary Institute routines require it, and may not
+carry dialogue or a subplot.
+
+------------------------------------------------------------------------
+
+# Reserved Minor Characters
 
 Minor characters exist only when they introduce a genuinely different
 way of thinking.
 
-Possible archetypes:
+Possible archetypes for later editions only:
 
 -   Builder
 -   Gardener
