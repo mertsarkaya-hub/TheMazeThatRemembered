@@ -1499,3 +1499,182 @@ It had a structure independent of those names.
 He imagined another table whose objects carried different labels and
 different materials. If its internal relationships formed the same
 arrangement, how could the two systems be compared?
+
+## Chapter 8 — The Shape of Thought
+
+The observatory contained no telescope.
+
+Its windows faced in six directions, each framing a different part of
+the Institute. One held the upper wall of the garden. Another showed
+three roofs crossing at uneven heights. Through the narrowest, Elias
+could see only sky and the edge of a stone chimney.
+
+Light entered from all of them and met on a broad table in the center.
+
+Mira had placed two maps there.
+
+The first reproduced Elias's library arrangement. Six points were named
+*key*, *hinge*, *wedge*, *cord*, *weight*, and *lens*. Fine lines marked
+their positions without connecting them. The key and hinge were the
+closest pair. The wedge lay near the hinge. The cord occupied the region
+between the wedge and weight. The lens stood apart.
+
+The second map recorded an arrangement made from six other objects. It
+was larger and turned at an angle. Its points carried different names:
+*ring*, *ribbon*, *shard*, *tile*, *bead*, and *hook*.
+
+"Are these the same arrangement?" Mira asked.
+
+Elias put one hand on either side of the table.
+
+"They do not contain the same things."
+
+"Then?"
+
+"No."
+
+Mira waited by the window that showed the garden wall.
+
+Elias looked more carefully. A ring resembled a lens, so he drew a small
+mark between those names. Ribbon belonged with cord. A shard might match
+the wedge. A hook was the nearest thing to a key.
+
+That left tile for hinge and bead for weight.
+
+He copied the pairings into his notebook and checked the maps.
+
+On the first, lens was far from everything else. On the second, ring sat
+near ribbon and bead. His first match placed an isolated point beside a
+crowded one.
+
+He crossed it out.
+
+Cord and ribbon failed next. The cord lay between two regions, but
+ribbon stood at the outer edge of its map. Key and hook sounded related,
+yet the key had the closest neighbor on the first map while the hook's
+nearest point remained separated by a wide gap.
+
+Every surface match damaged the relationships around it.
+
+"The labels interfere," he said.
+
+"What survives without them?" Mira asked.
+
+Elias found twelve small squares of blank paper in a drawer beneath the
+table. He covered each name.
+
+The maps became two fields of points.
+
+They still did not look the same. The second occupied more of its paper.
+Its longest direction ran from lower left to upper right, while the
+first stretched almost horizontally. One shape seemed narrow and the
+other broad.
+
+He turned the second sheet.
+
+The difference in angle disappeared. The difference in size remained.
+
+"If I put one over the other, the points will not meet," he said.
+
+"Must they?"
+
+He remembered the library table. The inches had made relationships
+visible, but the inches were not the relationships themselves.
+
+Elias began with what was most distinctive. On the first map, one point
+stood alone. On the second, one point also stood alone. He marked both
+with a small circle on their paper covers.
+
+On the first map, two points formed the closest pair. The same was true
+on the second. From one member of each pair, a third point lay nearby,
+forming a short bent chain. Farther on, another point occupied the space
+between that chain and its remaining neighbor.
+
+He traced the sequence without naming any member.
+
+Isolated point. Closest pair. Third point near one member of the pair.
+Middle point. Final neighbor.
+
+The second map repeated it at a larger scale and a different angle.
+
+Elias removed the paper from the isolated points. The first was the
+lens. The second was the shard.
+
+He laughed once, quietly. "I matched the lens with the ring because both
+were round. The relationships match it with the shard."
+
+"Does a lens become a shard?"
+
+"No. The things remain different. Their places within the two patterns
+play the same relational role."
+
+He uncovered the closest pairs. Key and hinge on the first map
+corresponded to ribbon and tile on the second. None of the names helped.
+The shared structure became clear only when each point was understood
+through all the others around it.
+
+"The maps do not match item by item," Elias said. "But the pattern of
+distances within one matches the pattern within the other."
+
+Mira opened the shutter of the narrow window. A band of light moved
+across the table, first illuminating one map and then the other.
+
+"What are you comparing?" she asked.
+
+"Not labels. Not materials. The relational structures."
+
+"Between?"
+
+"Two different systems."
+
+Mira rested her fingertips on the edge of the larger map.
+"Representational similarity analysis compares different systems
+through the relational structure among their representations."
+
+Elias uncovered every label. The names returned, but they no longer
+controlled the comparison. Each system kept its own contents. A lens did
+not need to resemble a shard for the worlds around them to share a
+shape.
+
+The view from the observatory seemed to widen. Its windows did not show
+the same scene, yet he could understand one view partly by how its
+features stood in relation, then ask whether another view preserved
+those relations. Difference at the surface no longer ended comparison.
+
+"Then these systems are the same," he said.
+
+Mira closed the shutter.
+
+The bright band narrowed and vanished from the maps.
+
+Elias looked at the two sheets. "No. That is too much."
+
+"What do you know?"
+
+"That these relational structures are similar. Not that the objects are
+the same."
+
+"What else do you not know?"
+
+He ran a finger above the first map without touching it. Each point had
+been fixed before he entered the room.
+
+"I do not know how either arrangement was made. Two systems could arrive
+at a similar shape by different ways."
+
+"And next?"
+
+"I do not know whether they would remain similar."
+
+The maps preserved one arrangement each. They said nothing about what a
+point had been before it reached its place or where it would move after.
+The shared shape was useful, but still.
+
+Elias folded the library map along its old creases. He no longer needed
+to imagine an inner library filled with little books and shelves. It had
+made distributed relationships tangible; the comparison had carried
+the idea beyond it.
+
+He left the second map open beneath the returning light.
+
+What was lost when a changing system was frozen into a still map?
