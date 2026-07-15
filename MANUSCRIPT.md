@@ -258,3 +258,227 @@ He turned to the next blank page.
 For a while he held the pencil above it. Then he wrote one question:
 
 *What happened before I came into the courtyard?*
+
+## Chapter 2 — The Path Behind
+
+Mira read the question, closed her book, and walked away from the table.
+
+Elias waited for an answer until she reached the far archway. Then he
+took the notebook and followed.
+
+The entrance to the maze stood at the end of a narrow passage between
+two buildings. From outside, Elias could see only a straight path and
+two high walls of pale stone. The walls were close enough to keep the
+morning cool between them. Their upper edges were dark with rain.
+
+Mira stepped inside.
+
+"Is this still the interview?" Elias asked.
+
+Her footsteps continued ahead of him.
+
+The first turn came before he could see where the path ended. Mira went
+right, then left at a fork, then right again. Elias began to keep the
+turns in order. It seemed sensible to know how to leave a place before
+going farther into it.
+
+At the next fork she chose the narrower path. It bent twice and opened
+onto a roofless square no larger than a room. Three passages met there:
+the one behind them and two ahead.
+
+Mira stopped.
+
+The two forward passages looked nearly alike. Each was shoulder-wide.
+Each ran several paces before turning out of sight. Rain had darkened
+the first stone in both. Between them, a thin crack divided the wall
+from top to bottom.
+
+"Which way leads out?" Mira asked.
+
+Elias looked back along the passage they had entered. He repeated the
+turns silently. Right. Left. Right. The narrow path had bent right, then
+right again. He had the sense of having been carried too far toward one
+side of the Institute.
+
+"Left," he said.
+
+"Why?"
+
+He almost said that it was obvious. "Because we turned right more often
+than left. The entrance should be back that way."
+
+"Should be?"
+
+"It is my hypothesis."
+
+The new word sounded more impressive aloud than it had on the page.
+
+Mira glanced down the left passage. "Then go."
+
+Elias entered it. After several turns, the passage widened. The stone
+walls ended, and he found himself at the entrance again.
+
+He looked over his shoulder. Mira had followed without correcting him.
+
+"I was right."
+
+"You came out."
+
+"That was the question."
+
+"Was it?"
+
+Elias looked back into the maze. The first passage offered nothing but
+its cool walls and the turn beyond them.
+
+Mira moved to the entrance once more.
+
+"Again?"
+
+She stepped inside.
+
+"Then I will choose left again," Elias said. "If the junction is the
+same, the answer will be the same."
+
+This time Mira turned left where she had first turned right. Her pace
+was unchanged. At the fork she chose the wider path. Elias tried to
+match this walk to the first one, but every expected turn failed to
+arrive. A long passage ended sooner than it seemed it should. A short
+one continued around three corners. Their footsteps moved close
+together, then separated as he slowed to look back.
+
+"You are taking us somewhere else," he said.
+
+Mira did not answer.
+
+They turned left twice. Then the path narrowed and bent once more.
+
+Elias heard her steps enter an open space before he saw it. He rounded
+the corner and stopped.
+
+The same two passages waited ahead.
+
+He recognized the crack between them first. It descended through the
+same pale stones, widening slightly near the ground. The first stone of
+each passage was still dark. Nothing in the square announced that he
+had approached it by another route.
+
+"I did not know the paths joined," he said.
+
+Mira stood where she had stood before. "Which way leads out?"
+
+He looked left. He had expected to choose it. He had even announced
+that he would. Yet it felt wrong now. The second walk had drawn him
+repeatedly leftward. Somewhere beyond the right passage, he felt, there
+must be a correction.
+
+"Right," he said.
+
+Mira waited.
+
+"No," Elias said. He examined both passages again. "Left. I said I
+would choose left."
+
+"Which would you choose if you had not said it?"
+
+He disliked how quickly the answer came. "Right."
+
+"Then choose."
+
+He entered the right passage.
+
+It led to the entrance.
+
+"Both ways lead out," he said.
+
+"Yes."
+
+"You let me believe there was one answer."
+
+"You supplied one."
+
+He could not object to that. He looked toward the passage on his left,
+through which he had emerged after the first walk, then to the passage
+on his right, through which he had emerged after the second.
+
+"But I still changed my answer."
+
+Mira turned back into the maze.
+
+They took the shortest route to the square. Elias knew it was the
+shortest because it contained only two turns, both chosen by Mira. When
+they reached the junction, she stood aside.
+
+"Tell me what is different," she said.
+
+Elias studied the left passage. Its first stone was no darker than it
+had been. The right passage was the same width. The crack between them
+had not opened or closed.
+
+He crouched and put his hand near the ground, first at one opening, then
+the other.
+
+"No wind I can feel."
+
+He listened. Water moved somewhere beyond the walls, but the sound did
+not favor either direction.
+
+"The light may have changed."
+
+"Enough?"
+
+The morning had brightened, but both passages held the same gray light.
+
+"Perhaps I noticed something without knowing it."
+
+"Perhaps."
+
+Elias walked to the point where the three passages met. From there the
+square seemed exactly as it had on both visits. The same view had stood
+before him. The same question had been asked. On the first walk, left
+had seemed right. On the second, right had seemed right.
+
+"The junction did not tell me which way to choose," he said.
+
+"What did?"
+
+He faced the passage through which they had just arrived. Its final
+turn hid the rest of the route.
+
+"The way we came."
+
+Mira said nothing.
+
+He tried to state it more carefully. "On the first walk, we turned
+right again and again. I expected the way out to correct for that. On
+the second, we had gone the other way. By the time I saw the junction,
+I was already expecting something different."
+
+"When did your choice begin?"
+
+"Before you asked for it."
+
+The square had not changed. A moment earlier it had seemed like a
+problem with two possible solutions cut into stone. Now the two openings
+were only the last part of a longer question.
+
+Elias walked a few paces back along the narrow passage. Mira remained at
+the junction. From around the turn he could no longer see her or either
+choice. He could see only the path immediately ahead and the wet stone
+on either side.
+
+When he returned, the junction appeared all at once: left passage,
+right passage, crack, dark stones. It offered no account of the steps
+that had brought him there.
+
+Mira started toward the exit.
+
+Elias followed. Their footsteps passed back through the turns and faded
+behind them almost as soon as they were made.
+
+The present view, he understood, was not always enough. A present choice
+could depend on events that were no longer visible.
+
+He listened to the last footfall disappear around the stone.
+
+If the path behind him was gone from sight, what part of it had he kept?
