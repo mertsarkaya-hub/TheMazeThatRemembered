@@ -2368,3 +2368,219 @@ He set the removable gear's empty tray beneath the workbench. Its lesson
 was complete enough to leave there.
 
 Could a useful internal organization survive a new task or setting?
+
+## Chapter 12 — The Bridge Between Minds
+
+Mira rebuilt the old arrangement without using the old objects.
+
+On the library table she placed six square cards. One bore a drawing of
+the key, another the hinge, then the wedge, cord, weight, and lens. She
+set the key and hinge close together, the wedge near the hinge, the cord
+between the wedge and weight, and the lens apart.
+
+Elias recognized the relational shape before he read the drawings.
+
+"The library table," he said.
+
+Mira laid his notebook beside it. "Copy the arrangement."
+
+He marked six points and wrote the object names beneath them. The page
+preserved every distance as carefully as he could manage. The line from
+key to hinge angled upward. The cord occupied the center. The lens sat
+alone near the lower edge.
+
+"This arrangement matches a route in the maze," Mira said. "It should
+take us to the cracked junction from another entrance."
+
+"The labels become turns?"
+
+"Use the page."
+
+Elias studied her face, looking for the question behind the instruction.
+She gave him none.
+
+They left the cards on the table and carried the notebook to the maze.
+
+The new entrance opened into a short passage Elias had not walked
+before. It ended at a fork, one side rising slightly and the other
+turning level around a wall. He held the notebook so its upper edge
+faced ahead.
+
+The line from key to hinge rose to the right.
+
+"Right," he said.
+
+Mira followed.
+
+The passage turned twice and ended at a wall.
+
+Elias checked for an opening he had missed. The stones met without a
+seam.
+
+"A dead end."
+
+"Yes."
+
+"Then the drawing was inaccurate."
+
+"Perhaps."
+
+They returned to the fork.
+
+Elias rotated the notebook a quarter turn and chose the other passage.
+At the next junction, three passages opened. The page placed the cord
+between wedge and weight. He took the middle path. It curved back toward
+the entrance and left them standing within sight of their first turn.
+
+He closed the notebook around one finger.
+
+"This is not working."
+
+Mira looked down the passage they had repeated. "No."
+
+Elias waited for the correction.
+
+"I expected it to," she said.
+
+He looked at her.
+
+"I assumed that preserving the arrangement was enough," Mira continued.
+"I expected the useful organization to carry directly into the maze."
+
+"It did not."
+
+"No. My expectation failed."
+
+There was no pause in which she defended it and no change in her voice.
+She stated the error as plainly as she had asked him to state the crow's
+movements.
+
+The disappointment Elias had felt toward the page loosened. He had
+imagined Mira waiting for him to discover a mistake she already
+understood. Instead, they were standing together inside a failed
+hypothesis.
+
+"What did we preserve that the maze does not use?" he asked.
+
+Mira held out her hand for the notebook. Elias gave it to her. She did
+not write. She returned it open.
+
+"The object names," he said. "The upward angle. The exact distances."
+
+"What might remain useful?"
+
+"The relationships."
+
+They sat on the low stone edging at the fork. Elias copied six small
+squares onto a clean page and drew no objects inside them.
+
+"The first arrangement said more than where things sat," he said. "It
+had a closest pair. A third point near one member. A point between two
+regions. One point that stood apart."
+
+"And this task?"
+
+He looked at the passages. "We need relationships among turns, not
+relationships among uses."
+
+"Same representation?"
+
+"Not unchanged."
+
+He took a loose scrap tucked inside the notebook's back cover, cut it
+into six small pieces, and placed them on the open page. The act felt
+uncomfortably like disturbing a result, so he wrote the intervention
+first: *Remove the object labels. Change orientation and spacing.
+Preserve the relational roles that help distinguish the route.*
+
+On the backs of the six pieces, he wrote questions.
+
+*Which two turns lie closest together?*
+
+*Which next turn lies near only one of them?*
+
+*Which passage stands between the close turns and the long one?*
+
+*Which point lies apart?*
+
+The questions did not tell him right or left. They told him what to
+notice as the maze unfolded.
+
+They began again.
+
+At the first fork, Elias ignored the page's old upward line. He chose
+the level passage because the dead end had already tested the other.
+
+Two turns arrived close together. He placed the key and hinge cards side
+by side without caring which was which.
+
+Beyond them, a third junction opened after only a few paces. It related
+closely to the second turn but not to the first, which was now hidden
+behind two walls. Elias placed the wedge card near one member of the
+pair.
+
+The route divided again. One path returned toward the close turns. The
+other continued through a longer corridor. Elias put the cord card
+between the cluster and the remaining two cards.
+
+"You are moving the arrangement," Mira said.
+
+"I am changing its surface to preserve what the task can use."
+
+They followed the longer corridor.
+
+At its end, a narrow opening led into an isolated square. The familiar
+crack divided the wall ahead.
+
+The junction looked different from this approach. The light entered at
+another angle. The two passages opened on opposite sides of Elias's
+page. Yet the crack widened near the ground and ended beside the same
+shallow chip.
+
+He placed the final card apart from the rest.
+
+"The copied answer failed," he said. "The useful organization did not."
+
+"What survived?"
+
+"A pattern that could be revised for another task and still guide a
+choice."
+
+"A useful representation supporting more than one task or setting shows
+transfer," Mira said.
+
+Elias wrote the term beneath the questions.
+
+"A bridge between tasks," he said.
+
+Mira looked back along the stone passage. "What crosses it?"
+
+"Not the labels. Not the exact distances. Not a guaranteed answer."
+
+He considered the image. A bridge suggested that anything could be
+carried from one side to the other. This transfer had been narrower. It
+was evidence that part of the representation remained useful, not that
+it would work everywhere.
+
+"Then the bridge is only a temporary word," he said. "What crosses is
+what the new task can still use."
+
+He drew no bridge in the notebook.
+
+Mira rested her hand on the wall beside the crack. "Would this page guide
+every route through the maze?"
+
+"No. It guided this route after we revised it. Another entrance could
+fail again."
+
+The limitation felt shared now rather than imposed. Mira's error had not
+made the inquiry smaller. Her willingness to expose it had made room for
+Elias to change the demonstration with her.
+
+He looked at the route cards. Another traveler might reach the same
+junction by memorizing turns, following one wall, or carrying a
+different arrangement entirely. The visible answer—arrival—would not
+reveal what had happened inside the traveler.
+
+Could two systems reach the same answer through different internal
+processes?
