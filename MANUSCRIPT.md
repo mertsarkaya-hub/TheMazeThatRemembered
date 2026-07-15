@@ -1787,3 +1787,165 @@ He placed his fingertip at the lower corner of one page and lifted it,
 but did not turn it yet.
 
 What changed between one still page and the next?
+
+## Chapter 9 — The Dance
+
+Mira stopped the brass marker at the top of its track.
+
+The new workshop device was built around a circular groove cut into a
+square of wood. A narrow brass arm reached from the center to a small
+marker that traveled in the groove. Beneath the board, a handle allowed
+the arm to be turned in either direction.
+
+"Draw it," Mira said.
+
+Elias opened the notebook to the page he had held beneath his finger in
+the courtyard. He drew the square board, the circle, and the marker at
+the top. A short line showed the arm joining it to the center.
+
+When he looked up, the marker stood at the bottom.
+
+He drew a second circle beside the first and placed the marker below the
+center.
+
+Mira moved the handle again while he completed the line of the arm.
+
+"Now?" she asked.
+
+The marker had returned to the top.
+
+Elias made a third drawing. Top. Bottom. Top.
+
+"What happened?" Mira asked.
+
+"It crossed the circle and returned."
+
+"Which way?"
+
+He looked at the three drawings. "The drawings do not say."
+
+"Then give me a hypothesis."
+
+"Clockwise."
+
+Mira moved the marker to the top once more. "Again."
+
+Elias prepared three clean spaces. First position: top. He bent over the
+page and copied it. When he looked back, the marker was at the bottom.
+He copied the second position. The final stop placed it at the top.
+
+The new row matched the first.
+
+"Same movement," Elias said.
+
+"Observed?"
+
+He drew a line through the words. "Same recorded positions."
+
+Mira turned the handle slowly.
+
+The marker left the top and moved to the left. It continued downward,
+passed through the bottom position in Elias's drawings, then climbed the
+right side and returned to the top.
+
+Counterclockwise.
+
+The first run might have gone the other way. The pages could not tell
+him.
+
+"You chose the stops," Elias said.
+
+"Yes."
+
+"They hid the order between them."
+
+Mira returned the marker to the top.
+
+This time she did not stop. The brass point moved right, down, left, and
+up. It passed through every place it had occupied in the previous run,
+but in the opposite order.
+
+Elias watched without drawing.
+
+The small sounds of the device separated in the workshop silence. The
+wooden handle rubbed once during each turn. A pin clicked when the arm
+passed the bottom. The marker whispered against the groove. Neither he
+nor Mira spoke until it completed the circle.
+
+"Clockwise," he said.
+
+Mira reversed the handle.
+
+Again the marker occupied top, left, bottom, right, top. The positions
+were familiar. The movement was not the same.
+
+"Counterclockwise."
+
+"Those are the two movements you recorded," Mira said.
+
+Elias returned to his two rows of circles. He could exchange the rows
+and nothing would change. Each contained the same three still positions
+in the same recorded order: top, bottom, top. Yet one run had passed
+through right before bottom and the other through left.
+
+He added arrows. The drawings became different at once.
+
+"The missing positions mattered," he said.
+
+"Only the positions?"
+
+He examined the arrows. A list containing top, right, bottom, left would
+still fail if someone rearranged it. What mattered was the order in
+which one position led to the next.
+
+"The transitions," he said. "Not only where it was, but how it moved
+from one place to another."
+
+Mira rested the handle.
+
+"A still map gives the state at one moment," Elias said. "But the state
+keeps evolving through time. The sequence carries more than any one
+snapshot."
+
+"That evolution is its dynamics," Mira said.
+
+Elias wrote the word beside the arrows.
+
+The paired maps in the observatory had compared arrangements. They had
+frozen each system long enough for relationships to be examined. Now he
+saw what the freezing removed. An internal state did not remain at one
+position among others. Recurrent updates carried it onward. Its path
+through successive states—a trajectory—could contain structure that no
+isolated position retained.
+
+Mira set the device moving again.
+
+Top, right, bottom, left. The marker crossed each point without pausing.
+
+"It is like trying to understand a dance from three poses," Elias said.
+
+"Does the machine dance?"
+
+"No. It has no intention. I mean only that the movement between poses is
+part of what must be understood."
+
+"Only?"
+
+He looked at the plain brass marker following its cut groove. "The
+comparison says nothing about grace or choice. It preserves sequence."
+
+Mira let the handle go. The marker slowed and stopped between the bottom
+and left positions.
+
+Elias did not draw it immediately. One more snapshot would not preserve
+the slowing that had brought it there.
+
+He drew part of the circle instead, then an arrow that narrowed as it
+approached the stopping point. It was an imperfect mark, but it tried to
+record movement rather than replace it with a pose.
+
+The device had shown him two dances. They shared every visible position
+but traveled through them in different orders. A still comparison could
+not distinguish them. Attention had to remain with the motion.
+
+How could two different dances be compared?
