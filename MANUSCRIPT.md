@@ -482,3 +482,244 @@ could depend on events that were no longer visible.
 He listened to the last footfall disappear around the stone.
 
 If the path behind him was gone from sight, what part of it had he kept?
+
+## Chapter 3 — The Notebook
+
+The first flower closed while Elias was writing down its color.
+
+He had been certain the petals were white. Up close, however, the veins
+were green near the stem, and the outer edges carried a faint blue that
+appeared only when he held the page beside them. He was trying to name
+the shade when the petals drew together around the dark center.
+
+"Did you see that?" he asked.
+
+Mira stood on the garden path with her hands behind her back.
+
+"It closed."
+
+"Yes."
+
+Elias added the change beneath his description. The flower grew from a
+low bed along the southern wall. Five others like it stood in the same
+row, spaced among rosemary and small gray stones. Beyond them, the
+garden rose in narrow terraces crowded with leaves.
+
+"Which one will close next?" Mira asked.
+
+Elias looked along the row. The flowers appeared nearly identical.
+
+"I need to observe them."
+
+Mira nodded toward the notebook.
+
+He began with the second flower. Its stem was a little shorter than the
+first. One leaf had a torn edge. The soil beneath it was dark and held
+the round impression of a drop. An ant crossed the nearest stone and
+vanished under the rosemary.
+
+He recorded each detail.
+
+At the third flower he counted seven leaves, then found an eighth folded
+behind the stem. The fourth leaned slightly toward the wall. A thread of
+spider silk joined the fifth to a brown twig. The sixth had two blue
+marks on an outer petal instead of one.
+
+The garden offered more whenever he looked again. A pale beetle moved
+under a leaf. The smell of rosemary strengthened when his sleeve brushed
+it. Water shone in one patch of soil but not another. Above the wall, a
+cloud crossed the sun, changing every color on the page.
+
+Elias wrote until the second flower closed.
+
+He turned back through his notes. "Its stem was shorter."
+
+"Was that why?" Mira asked.
+
+He looked at the first flower. Its stem had been taller.
+
+"No. The torn leaf, perhaps."
+
+"The first had no torn leaf."
+
+"Then I do not know yet."
+
+He drew a line beneath the second flower and started a new account of
+the third.
+
+By the time it closed, he had filled four pages.
+
+The entries were complete enough to return him to almost any moment.
+He could find the beetle under the fourth line of the third page. He
+could recover the number of stones between the first and second stems,
+the shape of the cloud, the temperature of the iron edging beneath his
+fingers. He had marked when a bird called beyond the wall and when the
+rosemary released its scent.
+
+"Which is next?" Mira asked.
+
+Elias turned a page, then turned it back. The third flower's account had
+continued around a sketch of its leaves. The time at which it closed
+was somewhere near the bottom, unless he had placed it beside the note
+about the beetle.
+
+"The fourth," he said.
+
+"Why?"
+
+"They have closed in order."
+
+The fifth flower closed.
+
+Elias stared at it. The fourth remained open, its dark center exposed.
+
+"Then the order is not enough."
+
+He knelt beside the fifth and began another page. The soil was drier
+there. Its lower leaves were narrow. The blue markings were fainter than
+those on the sixth. A small chip in the wall above it resembled a
+crescent.
+
+When he looked up, the fourth flower had also closed.
+
+"I missed it."
+
+Mira sat on the edge of the terrace. "Use your notes."
+
+"I am using them."
+
+"You are adding to them."
+
+Elias looked down. Six pages now held pieces of the garden. His writing
+had become smaller as the margins narrowed. Arrows led from later
+observations to earlier ones. A sentence about the fifth flower crossed
+an unfinished drawing of the third.
+
+"Nothing is missing," he said.
+
+"Which will close next?"
+
+Only the sixth flower remained open.
+
+"That one."
+
+Mira waited.
+
+"Because it is the only one left."
+
+"Could your notes have told you sooner?"
+
+Elias sat on the path. He turned to the first page and tried to compare
+the flowers. Stem height appeared near the top of one entry and at the
+bottom of another. The condition of the soil was described in four
+different ways. He had counted leaves twice on the second flower and not
+at all on the fifth.
+
+The notebook had preserved almost everything he noticed. It had not
+preserved any order that helped him use it.
+
+"They are too crowded," he said.
+
+Mira picked a rosemary leaf from Elias's sleeve and let it fall.
+"Which observations changed your choice?"
+
+"I chose the fourth because the first three closed in order."
+
+"And when the fifth closed?"
+
+"That changed it."
+
+"What did not?"
+
+Elias looked at the six pages. "The beetle. The torn leaf. The number of
+stones. Most of this."
+
+"Most?"
+
+"For this question."
+
+He turned to a clean page. At the top he wrote six small numbers, one
+for each flower. Beneath them he recorded only whether the petals were
+open or closed and the order in which he had seen them change.
+
+The fifth still broke the apparent sequence.
+
+He returned to the crowded pages, searching now for differences that
+had occurred near the changes rather than for every difference he had
+seen. On the first page, between the color of the petals and the ant, he
+had written that the edge of the wall's shadow touched the first stem.
+Beside the time when the second flower closed, a small sketch placed the
+shadow just beyond its stem. Beside his account of the fifth was a
+sentence he had almost crossed out: *The wall is crooked here; its
+shadow reaches the fifth bed before the fourth.*
+
+Elias looked up.
+
+The shadow lay across the closed fifth flower. A narrow piece of light
+still reached the fourth flower's upper petals, though its stem was in
+shade. Farther along the wall, the sixth stood fully in sunlight.
+
+"The shadow," he said.
+
+Mira did not turn toward it. "What about it?"
+
+"Each flower closed after the shadow reached its stem. The wall bends
+near the fifth. That is why it closed before the fourth."
+
+He stopped. "That is what happened. I do not know if the shadow is why."
+
+Mira's silence felt different from the silences in the courtyard. He no
+longer heard correction in it.
+
+On the clean page, Elias drew the edge of the wall and marked where its
+shadow had crossed each flower. The crowded observations became six
+positions, two conditions, and an order of change. The relationship was
+visible at once.
+
+"The sixth will close after the shadow reaches it," he said.
+
+They waited.
+
+The line of shade moved slowly across the soil. It touched the lower
+leaves, then the stem. For several moments nothing happened.
+
+Elias glanced at Mira, but she was watching the flower.
+
+The outer petals lifted. Their pale edges drew inward until the dark
+center disappeared.
+
+Elias let out the breath he had been holding.
+
+"Your notebook remembered the beetle," Mira said.
+
+"Yes."
+
+"Did you need it?"
+
+"Not to choose the flower."
+
+"Will you never need it?"
+
+Elias looked at the small mark he had made beside the beetle. "I do not
+know. Another question might make it important."
+
+He did not tear out the crowded pages. He crossed through nothing more.
+Instead, he placed the smaller account beside them. The first record
+preserved what he had noticed. The second kept what mattered to the
+choice before him.
+
+He had thought a good memory would be complete. Yet completeness had
+left him searching while the garden changed around him. The smaller
+record had been more useful because it preserved the part of the past
+that changed what he would do next.
+
+The notebook made that selection visible, but it could not be the
+selection itself. In the maze, he had carried the path behind him
+without writing a word.
+
+Mira rose and walked toward the far end of the garden.
+
+Elias closed the notebook and followed, leaving the six flowers in the
+wall's lengthening shade.
+
+If useful history could be carried without paper, where was it kept?
