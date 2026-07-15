@@ -1158,3 +1158,193 @@ every step. Yet a state useful for thinking would have to carry more
 than a number beneath a brass window.
 
 What did the changing internal state stand for?
+
+## Chapter 6 — The Library Without Labels
+
+Every label in the library lay face down on a table.
+
+There were hundreds of them: narrow slips of wood, small brass frames,
+squares of card with holes at their corners. Elias recognized none of
+the words because Mira had turned them all toward the grain of the
+table.
+
+The shelves rose around them in two levels. Ladders rested against the
+upper cases. Books stood behind glass, beneath open arches, and in low
+rows wide enough to hold maps. Their spines were cloth, leather, and
+paper, aged into colors too quiet to divide them into obvious groups.
+
+"Why remove the labels?" Elias asked.
+
+"Find the book with a drawing of the four-door machine."
+
+He looked toward the nearest case. "Which section?"
+
+Mira placed one of the wooden slips in his hand, blank side upward.
+
+"Machines," Elias said. "That would be the label."
+
+"Would it?"
+
+"Unless the book is under working parts. Or construction."
+
+Mira sat at the long table among the overturned labels.
+
+Elias chose the shelves nearest the library entrance and opened the
+first dark volume he found. Its pages contained drawings of wooden
+joints. The next showed hinges. The third was filled with measurements
+of bells.
+
+"This is the machine section," he called.
+
+"Did you find it?"
+
+"Not yet."
+
+He climbed three steps of the ladder. A book with a brass-colored spine
+contained pressed leaves. A gray one beside it held drawings of roofs.
+Color was useless. Size was nearly so. The smallest volume he opened
+described iron weights; the largest contained delicate sketches of
+seeds.
+
+He returned to the first shelves and began making labels of his own on
+scraps of paper.
+
+*WOOD.*
+
+That worked for the book of joints until he found sections on glue,
+tools, and the pressure a fitted corner could bear.
+
+*MOTION.*
+
+The book of bells belonged there, but so did a volume on waterwheels and
+another on the movement of a hand across a stringed instrument.
+
+*NUMBERS.*
+
+That label seemed promising for the machine's four positions. It led
+him to tables of proportions, calendars, and a study of repeated
+patterns cut into stone. None showed the wooden box.
+
+Elias left the scraps on the floor where each certainty had failed.
+
+"There should be a catalogue," he said.
+
+"There is."
+
+"Where?"
+
+Mira touched the face-down labels.
+
+He returned the wooden slip to the table. "Then the task is impossible
+because you removed the answer."
+
+"What remains?"
+
+"Books."
+
+"Only books?"
+
+Elias looked around. The cases had not been emptied. Nothing had been
+moved. Whatever order the labels had named still existed, but he had
+been treating each shelf as an isolated box waiting for one word.
+
+He went back to the volume on wooden joints. On its left stood a book
+about trees and seasoning timber. On its right was the volume of
+hinges. The sequence was not a clean category. It moved from material,
+to making, to movement.
+
+Beside the hinges stood a book of locks. Beside the locks, gears. A
+large volume below them showed devices for lifting weight. Above them
+were smaller books about measuring repeated turns.
+
+"These books are used together," Elias said.
+
+Mira turned a page of the book before her.
+
+He followed the shelf. The subjects shifted a little at a time. A book
+about shaping a gear sat near one about counting its teeth. Counting led
+to sequences. Sequences led to tables for predicting where a marked
+wheel would stop.
+
+Elias pulled out that volume. It contained no four-door machine, but the
+drawings resembled the brass wheel beneath its round window.
+
+He examined the neighboring books instead of carrying the volume away.
+One described small wooden cases. Another showed slotted devices that
+accepted pieces of different shapes. On the shelf below, a thin book
+lay between a manual on doors and a collection of circular diagrams.
+
+Elias opened it.
+
+The four-door machine appeared across two pages. One drawing showed the
+wooden case from above. Another exposed the gear beneath the brass
+wheel. In the margin, a small sequence of one- and two-notched slats led
+to four numbered positions.
+
+"Found," he said.
+
+Mira looked up. "Under what label?"
+
+Elias considered the books around it. "Machine would be incomplete.
+Door would be worse. It belongs with woodwork because of the case, with
+gears because of the wheel, and with sequences because of the way it
+changes."
+
+"Where is that written?"
+
+"Nowhere by itself."
+
+He returned the thin book to its place. Its neighbors made the reason
+for that place visible. No single one was sufficient. The book of doors
+did not explain the wheel. The circular diagrams did not explain the
+case. Together, the surrounding arrangement narrowed what the thin
+volume could be useful for.
+
+The removed labels had taken away quick names. They had not taken away
+the organization beneath them.
+
+"The book has its own contents," Elias said, "but part of what it means
+here is distributed across its relationships to the others."
+
+"And the state in the machine?" Mira asked.
+
+He remembered the single brass mark under the window. It had told him
+where the wheel stood, but a state useful for thought could not depend
+on one labeled place. Its information might lie in a pattern spread
+across many parts and in how those parts were arranged together.
+
+"It would not be one little shelf marked *way out*," he said.
+
+"No."
+
+"It would be distributed. A pattern inside, carrying information that
+could be used."
+
+"A distributed internal pattern that encodes useful information is a
+representation," Mira said.
+
+Elias looked again at the shelves. *Representation* did not name a
+hidden book containing an answer. It named an organization whose parts
+gained usefulness together.
+
+"But a mind is not a library," he said.
+
+"No."
+
+"These shelves hold literal books, and their arrangement changes only
+when someone moves them. An internal pattern can change from one moment
+to the next."
+
+Mira turned one of the brass labels face up but did not replace it.
+
+Elias read the word engraved there. It named one shelf correctly, but
+only from one point of view. Restoring it would make finding books
+faster. It would not contain the relationships that made the collection
+useful.
+
+The library no longer seemed like rows of answers. Its order crossed
+the divisions he had tried to impose, each book gathering meaning from
+more than one direction.
+
+If meaning lay in a pattern of relationships, which arrangements were
+close to one another?
