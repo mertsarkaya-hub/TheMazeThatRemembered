@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Frozen Before Draft One
+Status: Frozen at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -35,46 +35,43 @@ Never through explanation.
 
 ------------------------------------------------------------------------
 
-# Growth Model
+# Symbol Classes
 
-Every recurring symbol follows four stages:
+Three primary symbols carry the complete arc of the novella:
+
+-   The Crow
+-   The Notebook
+-   The Maze
+
+Every primary symbol follows four stages:
 
 1.  Object
 2.  Tool
 3.  Concept
 4.  Mirror
 
-No symbol skips stages.
+No primary symbol skips stages.
+
+The clock, library, garden, rain, light, stone, wood, glass, and silence
+are supporting motifs. They must deepen when repeated, but they are not
+required to perform the four-stage arc or return in the ending.
 
 ------------------------------------------------------------------------
 
 # The Crow
 
-## Initial Meaning
+## Four-Stage Evolution
 
-A crow choosing among spoons.
+Object: A crow choosing among spoons. Nothing more.
 
-Nothing more.
+Tool: Its behavior exposes Elias's projection and teaches him to
+separate observation from explanation.
 
-Readers invent explanations.
+Concept: Its recurrence carries the limits of observation and the need
+for provisional explanations.
 
-------------------------------------------------------------------------
-
-## Evolution
-
-Behavior
-
-↓
-
-Projection
-
-↓
-
-Observation
-
-↓
-
-Scientific humility
+Mirror: At the end, Elias responds to the same crow with questions
+rather than certainty. The crow reveals his transformation.
 
 ------------------------------------------------------------------------
 
@@ -86,27 +83,18 @@ Reality does not owe us explanations.
 
 # The Notebook
 
-## Initial Meaning
+## Four-Stage Evolution
 
-A place to record observations.
+Object: A bound collection of blank paper.
 
-------------------------------------------------------------------------
+Tool: A place to record observations, select useful history, and trace
+relationships.
 
-## Evolution
+Concept: A provisional model organized increasingly by questions rather
+than answers.
 
-Observations
-
-↓
-
-Relationships
-
-↓
-
-Questions
-
-↓
-
-Blank pages
+Mirror: Its remaining blank pages show that Elias no longer treats
+knowledge as completion.
 
 ------------------------------------------------------------------------
 
@@ -118,31 +106,17 @@ Good science leaves room for future revision.
 
 # The Maze
 
-## Initial Meaning
+## Four-Stage Evolution
 
-A physical environment.
+Object: A physical obstacle and environment.
 
-------------------------------------------------------------------------
+Tool: A setting for exposing the effects of history, memory, and hidden
+state.
 
-## Evolution
+Concept: A representation of state space and thinking itself.
 
-Obstacle
-
-↓
-
-Environment
-
-↓
-
-Representation
-
-↓
-
-State space
-
-↓
-
-Thinking itself
+Mirror: The unchanged maze feels different because Elias now carries a
+different model of it.
 
 ------------------------------------------------------------------------
 
@@ -156,7 +130,7 @@ Learning changes the traveler more than the path.
 
 Represents:
 
-Mechanism
+Movement
 
 ↓
 
@@ -164,11 +138,11 @@ Intervention
 
 ↓
 
-Causality
+Causal role
 
 ↓
 
-Explanation
+Partial explanation
 
 Removing one gear teaches more than watching every gear move.
 
@@ -208,7 +182,7 @@ Patterns
 
 ↓
 
-Adaptation
+Slow change
 
 ↓
 
@@ -291,7 +265,10 @@ Never repeat a symbol merely to remind readers it exists.
 
 # Final Return
 
-Every major symbol introduced early should return near the ending.
+The crow, notebook, and maze must return in Chapter 15.
+
+They develop in separate scenes so that no scene actively develops more
+than two symbols.
 
 Not as nostalgia.
 

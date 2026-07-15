@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: External Review Protocol
+Status: Frozen Review Protocol at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Status: External Review Protocol
 
 This document defines the scientific review process for the manuscript.
 
-The novel is fiction.
+The novella is fiction.
 
 Its scientific ideas are not.
 
@@ -53,19 +53,28 @@ the explanation fails.
 
 # Core Domains
 
-Review all concepts involving:
+Review the fifteen major concepts and the supporting Hypothesis bridge
+using their exact names and definitions in
+SCIENTIFIC_DEPENDENCY_MAP.md.
 
--   scientific reasoning
--   neuroscience
--   machine learning
--   representation learning
--   recurrent computation
--   representational geometry
--   representational similarity
--   dynamics
--   intervention
--   transfer learning
--   interpretability
+No adjacent neuroscience, machine-learning, or NeuroAI topic is
+authorized merely because it would normally accompany one of those
+concepts.
+
+------------------------------------------------------------------------
+
+# Source Boundary
+
+SCIENTIFIC_DEPENDENCY_MAP.md is the manuscript's complete scientific
+canon.
+
+External sources may be consulted only to verify the accuracy of a
+listed concept. They may not supply new terminology, mechanisms,
+examples, claims, or scientific domains to the manuscript.
+
+If the repository does not contain enough information to write a claim
+honestly, stop and report the gap. Never fill it by importing a new
+concept.
 
 ------------------------------------------------------------------------
 
@@ -179,6 +188,18 @@ Confidence:
 
 ------------------------------------------------------------------------
 
+# Completion Boundary
+
+Chapter-level scientific review and the final internal scientific pass
+are required for **Manuscript Complete**.
+
+Feedback from the four reader groups is required for **Publication
+Ready** and is coordinated by the user after the manuscript is complete.
+The drafting agent must not fabricate external reviewers or their
+responses.
+
+------------------------------------------------------------------------
+
 # Definition of Scientific Success
 
 The manuscript succeeds scientifically when:
@@ -191,7 +212,7 @@ The manuscript succeeds scientifically when:
 
 # Final Principle
 
-The novel is a bridge.
+The novella is a bridge.
 
 Its purpose is not to replace textbooks.
 

@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Living Document During Production
+Status: Frozen QA Protocol at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -85,6 +85,10 @@ Verify:
 -   analogies remain scientifically faithful
 -   no future concepts appear prematurely
 
+For Chapter 1, Hypothesis is supporting terminology within the single
+Observation-versus-Explanation transformation. It is not a second major
+concept.
+
 ------------------------------------------------------------------------
 
 # Language Review
@@ -149,6 +153,9 @@ One transformation.
 
 Never introduce multiple major conceptual revolutions simultaneously.
 
+The interlude is not a chapter and introduces no major concept. It uses
+the separate consolidation gate below.
+
 ------------------------------------------------------------------------
 
 # Rewrite Order
@@ -186,11 +193,74 @@ Only then may the chapter be marked:
 
 LOCKED
 
+QA must pass before drafting begins on the next chapter.
+
+A lock protects the chapter during forward drafting. A verified
+cross-chapter problem found in the final manuscript pass may reopen its
+prose, after which the chapter must pass the complete checklist again.
+Architecture and scientific order may never be reopened during Draft
+One.
+
+------------------------------------------------------------------------
+
+# Interlude Acceptance Checklist
+
+Reflection ........ PASS
+
+Consolidation ..... PASS
+
+No New Concept .... PASS
+
+Character ......... PASS
+
+Language .......... PASS
+
+Continuity ........ PASS
+
+Symbols ........... PASS
+
+Next Question ..... PASS
+
+Only then may the interlude be marked LOCKED.
+
+------------------------------------------------------------------------
+
+# QA Evidence Report
+
+QA results are reported outside the frozen specification corpus after
+every chapter and after the interlude.
+
+Required fields:
+
+Chapter or Interlude:
+
+Word count:
+
+Target transformation or consolidation:
+
+Story evidence:
+
+Character evidence:
+
+Scientific evidence:
+
+Language evidence:
+
+Reader-state evidence:
+
+Continuity evidence:
+
+Symbol evidence:
+
+Failures found and revisions performed:
+
+Final state: LOCKED or REVISION REQUIRED
+
 ------------------------------------------------------------------------
 
 # Manuscript Review
 
-After completing the novel verify:
+After completing the novella verify:
 
 -   every chapter is necessary
 -   every concept returns

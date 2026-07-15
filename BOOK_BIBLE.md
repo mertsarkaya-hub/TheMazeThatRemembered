@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.1
+Version: 2.2
 
-Status: Frozen Before Draft One
+Status: Frozen at `spec-v1.0`
 
 ---
 
@@ -87,15 +87,22 @@ Target length:
 - approximately 1,700–2,200 words per chapter
 - approximately 800–1,200 words for the interlude
 
-These are targets, not quotas.
+The total word range is an acceptance constraint, not a quota for any
+individual chapter.
 
 A chapter may be shorter if the intended transformation is complete.
 
-A chapter may be longer only if the reader genuinely needs more experience to earn the concept.
+A chapter may be longer only if the reader genuinely needs more
+experience to earn the concept and the complete manuscript remains
+inside the required total range.
 
 Never expand a chapter merely because it feels brief.
 
 Compression is part of the book's identity.
+
+Scientific accuracy and the total range must both be preserved. If a
+chapter needs more space for honesty, compress elsewhere rather than
+exceeding 35,000 words.
 
 ---
 
@@ -103,7 +110,8 @@ Compression is part of the book's identity.
 
 ## Act I — Learning to Observe
 
-Observation, hypotheses, history, memory.
+Observation versus explanation, hypothesis as a supporting bridge,
+history, selective memory, and hidden state.
 
 The reader discovers that reality contains more than immediate perception.
 
@@ -111,7 +119,8 @@ The reader discovers that reality contains more than immediate perception.
 
 ## Act II — Learning to Represent
 
-Hidden state, recurrent computation, representations, geometry, similarity.
+Recurrent computation, representations, geometry, and representational
+similarity analysis.
 
 The reader stops thinking only about visible behavior and begins thinking about internal organization.
 
@@ -119,7 +128,8 @@ The reader stops thinking only about visible behavior and begins thinking about 
 
 ## Act III — Learning to Explain
 
-Dynamics, intervention, transfer, mechanism, interpretability, scientific thinking.
+Dynamics, dynamic similarity analysis, intervention, transfer,
+mechanism, interpretability, and scientific thinking.
 
 The reader discovers that prediction is not the same as explanation.
 
@@ -180,6 +190,28 @@ It feels handcrafted rather than technological.
 Knowledge is built, not downloaded.
 
 It exists to cultivate careful thinking.
+
+The physical maze never changes, adapts, or literally remembers. The
+title refers to the remembered model carried by Elias: the maze appears
+different because the traveler has changed.
+
+---
+
+# Narrative Spine
+
+Elias arrives seeking the Institute's definitive answer to how minds
+build models of reality. He also wants to prove that he belongs there by
+answering quickly.
+
+Mira replaces the expected entrance examination with a sequence of
+experiences. Elias progresses from visitor, to apprentice, to steward as
+the quality of his questions changes.
+
+The narrative stake is concrete but quiet: Elias may remain only by
+learning to investigate rather than perform certainty.
+
+The final chapter does not award him a final answer. It gives him
+responsibility for the next question.
 
 ---
 

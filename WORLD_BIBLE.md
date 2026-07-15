@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Frozen Before Draft One
+Status: Frozen at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ The birthplace of observation.
 
 The crow first appears here.
 
-The novel also returns here at the end.
+The novella also returns here at the end.
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ Represents:
 
 -   slow change
 -   memory
--   adaptation
+-   hidden change over time
 
 ------------------------------------------------------------------------
 
@@ -120,6 +120,10 @@ The maze does not change.
 The traveler does.
 
 It gradually becomes a model of internal state and scientific thinking.
+
+The maze has no agency, memory, hidden technology, or magical property.
+It is physically unchanged in Chapter 15. The title names the model
+remembered by Elias, not a maze that literally stores experience.
 
 ------------------------------------------------------------------------
 
@@ -217,6 +221,12 @@ Readers discover meaning gradually.
 Mystery comes from familiarity withheld,
 
 not artificial secrets.
+
+No major location may be added during Draft One. Scenes use only the
+courtyard, garden, workshop, library, maze, and observatory.
+
+The "bridge" in Chapter 12 is conceptual language, not a literal place
+or a promoted symbol.
 
 ------------------------------------------------------------------------
 

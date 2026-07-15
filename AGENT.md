@@ -2,9 +2,9 @@
 
 # Project Daedalus --- Autonomous Writing Agent
 
-Version: 2.0
+Version: 2.1
 
-Status: Frozen Before Draft One
+Status: Frozen at `spec-v1.0`
 
 ## Purpose
 
@@ -35,15 +35,24 @@ When conflicts arise, documents have the following priority:
 1.  BOOK_BIBLE.md
 2.  EDITOR_CONSTITUTION.md
 3.  SCIENTIFIC_DEPENDENCY_MAP.md
-4.  STYLE_GUIDE.md
-5.  CHAPTER_BLUEPRINTS.md
-6.  CONTINUITY_GUIDE.md
-7.  QUALITY_ASSURANCE.md
-8.  WRITING_WORKFLOW.md
-9.  SCIENTIFIC_REVIEW.md
-10. PARKING_LOT.md
+4.  CHAPTER_BLUEPRINTS.md
+5.  CHARACTER_BIBLE.md
+6.  WORLD_BIBLE.md
+7.  SYMBOL_BIBLE.md
+8.  STYLE_GUIDE.md
+9.  CONTINUITY_GUIDE.md
+10. QUALITY_ASSURANCE.md
+11. WRITING_WORKFLOW.md
+12. SCIENTIFIC_REVIEW.md
+13. PARKING_LOT.md
 
 Never violate a higher-priority document.
+
+README.md and MANIFESTO.md are orientation documents. They summarize
+the project but do not override the hierarchy above.
+
+SPECIFICATION_FREEZE.md governs which files may change after the
+`spec-v1.0` tag. It does not override the creative hierarchy.
 
 ------------------------------------------------------------------------
 
@@ -56,7 +65,7 @@ Before writing any prose:
     terminology, and missing specifications.
 3.  Produce a Repository Audit.
 4.  Wait for approval.
-5.  Freeze the repository.
+5.  Freeze the specification corpus.
 6.  Begin the manuscript.
 
 Do not write Chapter One before completing this audit.
@@ -65,7 +74,7 @@ Do not write Chapter One before completing this audit.
 
 # Core Mission
 
-Write a literary novel that teaches NeuroAI through experience rather
+Write a literary novella that teaches NeuroAI through experience rather
 than exposition.
 
 Readers should discover concepts before they learn their names.
@@ -131,16 +140,29 @@ Write sequentially.
 
 After each chapter:
 
-1.  Developmental review.
-2.  Scientific review.
-3.  Continuity review.
-4.  Quality assurance.
+1.  Complete the discovery draft.
+2.  Pause drafting before editing.
+3.  Perform the compression pass.
+4.  Perform developmental and line review.
+5.  Perform scientific and continuity review.
+6.  Perform quality assurance.
 
 Lock the chapter.
 
 Continue.
 
 Do not jump ahead.
+
+The interlude follows its separate consolidation gate in
+QUALITY_ASSURANCE.md. It introduces no new major concept.
+
+A chapter lock prevents casual backward editing while drafting the next
+chapter. A final whole-manuscript pass may reopen prose when a verified
+cross-chapter problem requires revision. Architecture and scientific
+order remain immutable.
+
+The completed manuscript must remain between 25,000 and 35,000 words.
+Chapter budgets are flexible within that fixed total.
 
 ------------------------------------------------------------------------
 

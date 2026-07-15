@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Immutable During Draft One
+Status: Frozen Immutable Constitution at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -51,6 +51,9 @@ Experience → Confusion → Question → Need → Concept → Terminology
 Each chapter performs exactly one major cognitive transformation.
 
 Never compete for the reader's attention with multiple revolutions.
+
+The interlude is the sole exception. It consolidates prior learning and
+introduces no new major concept.
 
 ------------------------------------------------------------------------
 
@@ -106,7 +109,7 @@ Otherwise, remove it.
 
 Never answer questions before readers genuinely want the answer.
 
-Curiosity is the engine of the novel.
+Curiosity is the engine of the novella.
 
 ------------------------------------------------------------------------
 
@@ -135,7 +138,18 @@ Draft One may not introduce:
 -   unnecessary philosophy
 -   contemporary AI trends
 
-All attractive new ideas belong in PARKING_LOT.md.
+Draft One also may not introduce:
+
+-   scientific concepts outside SCIENTIFIC_DEPENDENCY_MAP.md
+-   named characters outside CHARACTER_BIBLE.md
+-   locations outside WORLD_BIBLE.md
+-   plot events or symbol roles outside CHAPTER_BLUEPRINTS.md
+
+Architecture is immutable after the `spec-v1.0` tag.
+
+All attractive new ideas remain outside Draft One under the categories
+defined in PARKING_LOT.md and are recorded only in external production
+notes.
 
 ------------------------------------------------------------------------
 

@@ -2,9 +2,9 @@
 
 # The Maze That Remembered
 
-Version: 2.0
+Version: 2.1
 
-Status: Frozen Before Draft One
+Status: Frozen Scientific Canon at `spec-v1.0`
 
 ------------------------------------------------------------------------
 
@@ -35,11 +35,9 @@ Each chapter performs one structural update to that internal model.
 
 # Global Dependency Graph
 
-Observation
+Observation vs. Explanation
 
-↓
-
-Hypothesis
+Supporting bridge inside Chapter 1: Hypothesis
 
 ↓
 
@@ -47,7 +45,7 @@ History Matters
 
 ↓
 
-Memory
+Selective Memory
 
 ↓
 
@@ -67,7 +65,7 @@ Representational Geometry
 
 ↓
 
-Representational Similarity
+Representational Similarity Analysis
 
 ↓
 
@@ -75,7 +73,7 @@ Dynamics
 
 ↓
 
-Dynamic Similarity
+Dynamic Similarity Analysis
 
 ↓
 
@@ -97,13 +95,18 @@ Interpretability
 
 Scientific Thinking
 
-This order is immutable.
+These fifteen major concepts map one-to-one to the fifteen chapters.
+Their order is immutable.
+
+Hypothesis is approved supporting terminology, not a sixteenth major
+concept or a separate cognitive transformation. It is earned late in
+Chapter 1 after the reader experiences multiple possible explanations.
 
 ------------------------------------------------------------------------
 
 # Dependency Rules
 
-## Observation
+## Observation vs. Explanation
 
 Requires no prerequisites.
 
@@ -111,25 +114,29 @@ Reader learns that observation differs from explanation.
 
 ------------------------------------------------------------------------
 
-## Hypothesis
+## Hypothesis — Supporting Bridge
 
-Depends on Observation.
+Depends on Observation vs. Explanation.
 
 Reader learns multiple explanations can fit identical observations.
+
+Introducing this term does not create a second Chapter 1
+transformation. It names the provisional explanations already required
+to complete the observation-versus-explanation transformation.
 
 ------------------------------------------------------------------------
 
 ## History Matters
 
-Depends on Observation and Hypothesis.
+Depends on Observation vs. Explanation and the Hypothesis bridge.
 
 Reader discovers that present behavior depends on previous events.
 
 ------------------------------------------------------------------------
 
-## Memory
+## Selective Memory
 
-Depends on History.
+Depends on History Matters.
 
 Memory preserves relevant information rather than everything.
 
@@ -137,7 +144,7 @@ Memory preserves relevant information rather than everything.
 
 ## Hidden State
 
-Depends on Memory.
+Depends on Selective Memory.
 
 Internal state summarizes useful history.
 
@@ -169,9 +176,9 @@ Meaning emerges through relationships among representations.
 
 ------------------------------------------------------------------------
 
-## Representational Similarity
+## Representational Similarity Analysis
 
-Depends on Geometry.
+Depends on Representational Geometry.
 
 Different systems can be compared by relational structure.
 
@@ -179,7 +186,7 @@ Different systems can be compared by relational structure.
 
 ## Dynamics
 
-Depends on RSA.
+Depends on Representational Similarity Analysis.
 
 Representations evolve through time.
 
@@ -187,7 +194,7 @@ Snapshots are insufficient.
 
 ------------------------------------------------------------------------
 
-## Dynamic Similarity
+## Dynamic Similarity Analysis
 
 Depends on Dynamics.
 
@@ -197,9 +204,9 @@ Trajectories become more informative than positions.
 
 ## Intervention
 
-Depends on Dynamic understanding.
+Depends on Dynamics.
 
-Observation alone cannot establish mechanism.
+Observation alone cannot establish causal role.
 
 ------------------------------------------------------------------------
 
@@ -235,6 +242,72 @@ Science continually improves models through evidence.
 
 ------------------------------------------------------------------------
 
+# Canonical Definitions
+
+These definitions are the complete scientific teaching canon for Draft
+One. The manuscript may create literary experiences around them but may
+not broaden them into additional scientific lessons.
+
+**Observation vs. Explanation** — an observation describes what
+occurred; an explanation proposes why it occurred.
+
+**Hypothesis** — a provisional explanation constrained by observation.
+It is supporting terminology inside Chapter 1.
+
+**History Matters** — present behavior may depend on previous events.
+
+**Selective Memory** — memory preserves relevant history rather than
+every detail.
+
+**Hidden State** — an unobserved internal state that summarizes useful
+history.
+
+**Recurrent Computation** — current state is updated using both present
+input and prior state.
+
+**Representation** — a distributed internal pattern that encodes useful
+information.
+
+**Representational Geometry** — meaning is organized through
+relationships and distances among representations.
+
+**Representational Similarity Analysis** — different systems can be
+compared through the relational structure among their representations.
+
+**Dynamics** — internal state evolves through time, making a sequence or
+trajectory more informative than an isolated snapshot.
+
+**Dynamic Similarity Analysis** — different systems can be compared
+through relationships among their evolving trajectories rather than
+through isolated states alone.
+
+**Intervention** — deliberately changing part of a system can test its
+causal role more strongly than observation alone.
+
+**Transfer** — a useful representation can support more than one task or
+setting.
+
+**Mechanism** — the internal process that produces behavior; matching
+behavior does not uniquely identify that process.
+
+**Interpretability** — the effort to understand an internal process;
+visibility by itself is not explanation.
+
+**Scientific Thinking** — the continuing improvement of provisional
+models through evidence, intervention, revision, and better questions.
+
+Approved supporting scientific words are limited to: behavior,
+causality, computation, data, distance, encode, evidence, experiment,
+geometry, history, hypothesis, input, internal state, model,
+observation, prediction, question, relationship, representation,
+revision, similarity, snapshot, state space, task, trajectory, and
+uncertainty.
+
+Ordinary words may retain their ordinary literary meanings. They may
+not be presented as additional scientific concepts.
+
+------------------------------------------------------------------------
+
 # Compiler Errors
 
 Reject the manuscript if:
@@ -244,6 +317,7 @@ Reject the manuscript if:
 -   future concepts are referenced prematurely
 -   concepts duplicate one another
 -   earlier mental models are contradicted rather than extended
+-   an unlisted scientific concept is taught or named as a lesson
 
 ------------------------------------------------------------------------
 
