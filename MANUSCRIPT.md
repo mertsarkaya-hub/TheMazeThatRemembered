@@ -935,3 +935,226 @@ opened. Its contents could be counted. This hidden state had no such
 edges.
 
 How could an internal state change at every step?
+
+## Chapter 5 — The Machine That Remembers
+
+The machine had four doors and no obvious purpose.
+
+It sat in the center of a workbench, small enough for Elias to lift with
+both hands. Its case was dark wood joined at the corners by pale fitted
+teeth. Four narrow doors lined the front. Above them, a brass wheel
+showed one of four marks through a round opening in the case.
+
+Nothing concealed how it had been built. The pins had been hammered
+flush but not polished away. The grain of the lid met the grain of the
+sides at clean angles. A hand had made every choice and left the choices
+visible.
+
+Beside the machine lay two brass slats. One had a single notch cut into
+its edge. The other had two.
+
+Mira placed a finger on the first mark of the wheel.
+
+"What does it do?" Elias asked.
+
+"Watch."
+
+She slid the one-notched piece into a slot at the top. Inside the wooden
+case, a gear caught. The brass wheel advanced from the first mark to the
+second, and the second door opened.
+
+The slat emerged from a lower slot.
+
+"The one-notch opens the second door," Elias said.
+
+Mira closed the door. "Again?"
+
+"The second door."
+
+She inserted the same slat.
+
+The wheel advanced to the third mark. The third door opened.
+
+Elias bent closer. "You did not reset it."
+
+"No."
+
+"Then that was not the same trial."
+
+"The input was the same."
+
+"The machine was not."
+
+Mira removed the slat and closed the third door.
+
+Elias looked through the round opening. The wheel remained at the third
+mark. The machine's hidden condition was not hidden from him; the case
+offered a small window onto it.
+
+"The wheel keeps the previous result," he said.
+
+"What will the one-notch do now?"
+
+"Open the second door."
+
+Mira waited.
+
+He heard his mistake before she moved. He had looked at the slat and
+forgotten the wheel again.
+
+"The fourth," he said.
+
+She inserted the piece. The wheel turned one position. The fourth door
+opened.
+
+"And again?" she asked.
+
+Elias traced the four marks with his eyes. "The first."
+
+The wheel moved past the fourth mark and returned to the first. A soft
+wooden knock sounded from the leftmost door as it opened.
+
+Mira set the one-notched slat beside the other.
+
+"That is only counting," Elias said.
+
+"Then count."
+
+She turned the wheel back to the first mark and lifted the two-notched
+piece.
+
+"Third door," he said.
+
+It opened.
+
+Mira did not reset the wheel. She reached for the one-notched piece.
+
+"Fourth," Elias said.
+
+It opened.
+
+She chose the two-notched piece.
+
+Elias looked at the current mark rather than at the door that had just
+moved. Two positions after the fourth returned to the second.
+
+"Second."
+
+The second door opened.
+
+Mira continued without establishing a rhythm: one notch, two, two, one.
+Elias followed the brass mark around the wheel. Third. First. Third.
+Fourth. Each open door became the position from which the next input
+began.
+
+The sequence ended with the fourth door open.
+
+"You can predict it," Mira said.
+
+"If I keep the wheel in the prediction."
+
+"What if you do not?"
+
+"Then I keep treating the slat as if it has one answer."
+
+He took the one-notched piece and held it above the slot. On the first
+trial it had opened the second door. On the next it had opened the
+third, then the fourth, then the first. The input had remained the same.
+Its consequence depended on what the machine carried into the moment.
+
+Elias pushed the slat in. The first door opened.
+
+"So the previous state is another input," he said.
+
+"Another?"
+
+He considered. "Not beside the brass piece. It returns from the machine
+itself."
+
+He followed the motion with one finger: the wheel before the slat, the
+gear turning, the wheel after. The new position did not vanish when the
+door closed. It waited to take part in the next change.
+
+"The result loops back," he said.
+
+Mira placed both slats before him. "Narrate it."
+
+"Now?"
+
+"Slowly."
+
+The wheel showed the first mark.
+
+Elias chose the two-notched slat. "The previous state is first. The
+present input is two notches. Together they make the next state third."
+
+He inserted it. The third door opened.
+
+He picked up the same slat again. "The previous state is now third. The
+input is still two. The next state is first."
+
+The wheel turned, crossed the fourth mark, and stopped at the first.
+
+He chose the one-notched piece. "Previous state first. Present input
+one. Next state second."
+
+The second door opened.
+
+At first the narration felt needlessly slow. Then he noticed that it
+removed the temptation to restart. Every sentence began where the last
+one had ended.
+
+Mira arranged six slats in a row on the bench: two, one, two, two, one,
+one.
+
+"Without touching the machine," she said.
+
+The wheel stood at the second mark. Elias placed his fingertip on the
+wood before the first slat and moved it one piece at a time.
+
+"Fourth. First. Third. First. Second. Third."
+
+"Final door?"
+
+"Third."
+
+Mira fed the slats into the slot. Fourth door. First. Third. First.
+Second. Third.
+
+Elias smiled before the last door opened.
+
+The invisible backpack had made the need for an internal state clear,
+but it had not shown the work of changing one. This machine did. Each
+present state entered the process that produced the next. Nothing began
+from emptiness unless Mira deliberately returned the wheel to its first
+mark.
+
+"A current state is updated using both the present input and the prior
+state," Elias said. "The new state then becomes prior state for the next
+step."
+
+"That is recurrent computation," Mira said.
+
+Elias turned the wheel by hand. He could feel each tooth of the gear
+engage and release.
+
+"Is thinking like this machine?"
+
+Mira looked at the four small doors.
+
+"The machine shows dependence on a prior state," Elias said before she
+could answer. "It does not show everything a mind is or how it is
+organized."
+
+"Good."
+
+He withdrew his hand. The machine's construction was clear. The meaning
+of its four positions was not. First led to second under one input and
+third under another, but *first* itself seemed to stand for nothing
+beyond a place on the wheel.
+
+The process could carry a state forward. It could change that state at
+every step. Yet a state useful for thinking would have to carry more
+than a number beneath a brass window.
+
+What did the changing internal state stand for?
