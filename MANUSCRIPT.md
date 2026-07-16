@@ -22,6 +22,16 @@ clear sentences. He had even prepared for the silence that sometimes
 followed a good answer, when the person listening needed a moment to
 recognize it.
 
+He had not come merely to visit. Somewhere inside the Institute, he
+believed, people had carried the question of how minds built reality
+farther than he had. Admission meant reaching that work. The interview
+was the narrow place between wanting to understand and being permitted
+to remain.
+
+On the walk there, he had imagined earning passage with the quality of
+his answers. The faster he saw what a question required, the less room
+there would be to doubt that he belonged.
+
 No one had prepared him for the spoons.
 
 The crow stepped onto the silver one. Metal shifted against stone. The
@@ -196,8 +206,13 @@ Elias read the list again. "No."
 
 "Yet each fits it."
 
-Elias read the list of actions again. The sentences seemed bare now, but
+The sentences seemed bare now, but
 not empty. They refused to choose among the possibilities for him.
+
+That refusal unsettled him more than a blank page. A blank page admitted
+ignorance. These sentences contained evidence and still declined to
+give him a single answer. He could not repair the uncertainty by adding
+confidence to his voice.
 
 "Some fit better than others," he said.
 
@@ -253,6 +268,11 @@ The silver spoon was still bright. The blackened bowl reflected nothing.
 
 Yet the scene no longer seemed to contain its own explanation.
 
+The closed door at the end of the walk had stopped looking like the
+place where the real interview waited. Whatever admission required was
+already happening at the table, in the distance between what he had
+seen and what he wanted to claim.
+
 He turned to the next blank page.
 
 For a while he held the pencil above it. Then he wrote one question:
@@ -281,6 +301,17 @@ The first turn came before he could see where the path ended. Mira went
 right, then left at a fork, then right again. Elias began to keep the
 turns in order. It seemed sensible to know how to leave a place before
 going farther into it.
+
+The maze made that order difficult to hold. Each passage resembled the
+last without repeating it exactly. One wall bowed inward. Another kept
+straight while the floor tilted beneath it. When Elias looked back, a
+turn that had felt sharp from one side appeared shallow from the other.
+He began counting footsteps between corners, then lost the count when
+Mira changed pace.
+
+What remained was less like a map than a pressure: too much right, a
+brief correction left, then right again. He trusted the pressure because
+he had nothing cleaner.
 
 At the next fork she chose the narrower path. It bent twice and opened
 onto a roofless square no larger than a room. Three passages met there:
@@ -346,6 +377,12 @@ match this walk to the first one, but every expected turn failed to
 arrive. A long passage ended sooner than it seemed it should. A short
 one continued around three corners. Their footsteps moved close
 together, then separated as he slowed to look back.
+
+He tried to hold the first route beside the second. The effort made both
+less certain. He could recover individual turns, but not without also
+recovering which walk they belonged to. The routes would not become two
+static lists. Each new corner altered what he expected the next one to
+be.
 
 "You are taking us somewhere else," he said.
 
@@ -453,6 +490,12 @@ He tried to state it more carefully. "On the first walk, we turned
 right again and again. I expected the way out to correct for that. On
 the second, we had gone the other way. By the time I saw the junction,
 I was already expecting something different."
+
+He imagined exchanging the two walks while leaving the junction fixed.
+The stones ahead would remain the same, but left would inherit the sense
+of correction from one route and right from the other. The choice was
+not waiting fully formed in either passage. Part of it had been made
+before either passage came into view.
 
 "When did your choice begin?"
 
@@ -644,6 +687,19 @@ open or closed and the order in which he had seen them change.
 
 The fifth still broke the apparent sequence.
 
+Elias made three smaller trials on the page. He compared stem heights;
+the third and sixth were nearly equal, yet one had closed and the other
+had not. He compared the soil; the driest bed did not change first. He
+compared damaged leaves; the torn and untouched plants appeared on both
+sides of the order.
+
+Each comparison required him to leave most of the garden outside the
+line he was writing. At first that felt like carelessness. Then he
+noticed that, for the first time, he could hold the same observation
+across all six flowers without turning a page. What he omitted had not
+been declared meaningless. It had been set aside so one relationship
+could be tested against the rest.
+
 He returned to the crowded pages, searching now for differences that
 had occurred near the changes rather than for every difference he had
 seen. On the first page, between the color of the petals and the ant, he
@@ -675,6 +731,12 @@ On the clean page, Elias drew the edge of the wall and marked where its
 shadow had crossed each flower. The crowded observations became six
 positions, two conditions, and an order of change. The relationship was
 visible at once.
+
+He checked it against the details he had set aside. Petal color varied,
+stem height varied, soil varied. None followed the closing order as
+consistently as the movement of the shadow. The smaller record had not
+proved the other details irrelevant. It had made one pattern available
+for a prediction.
 
 "The sixth will close after the shadow reaches it," he said.
 
@@ -906,6 +968,41 @@ needed without pretending to reveal it.
 
 Mira nodded.
 
+She turned away from the junction and took the narrow passage again.
+
+"No notebook," she said.
+
+The first turn went left. At the next division she chose right, then
+right again. Elias resisted converting the walk into a complete list.
+Instead he noticed what each step altered in his expectation. After the
+first left, the entrance seemed to lie behind his right shoulder. The
+two rights weakened that sense without erasing it. A long straight
+passage made distance matter more than direction.
+
+Mira stopped before the junction came into view. "What are you carrying
+now?"
+
+"Not the turns one by one." Elias faced the hidden corner ahead. "A
+summary that makes one route feel more likely than another."
+
+"Same as at the entrance?"
+
+"No."
+
+"Could you show me the moment it changed?"
+
+He looked back along the visible passage. No single stone held the
+change. Each turn had left the next expectation slightly different, but
+the useful result was not a pile of those turns. The invisible backpack
+had been repacked without ever opening.
+
+"I can describe the effects," he said. "I still cannot observe the
+state itself, and I do not know exactly what it contains. Another
+summary might support the same choice."
+
+Mira continued around the corner. The junction appeared, unchanged.
+Elias's expectation had changed before it did.
+
 For the first time, failing to see the answer did not feel like failing
 to reason. The two journeys had traced the edges of something unseen.
 He could remain honest about the gap and still ask what must occupy it.
@@ -1123,6 +1220,79 @@ Second. Third.
 
 Elias smiled before the last door opened.
 
+Mira reset the wheel and arranged two shorter rows. Both ended with the
+one-notched slat.
+
+The first row was one, one, one. The second was two, two, one.
+
+"Same final input," she said.
+
+Elias began to say that the final doors should match, then followed each
+history from the first mark. The first row carried the wheel through
+second and third before the last slat opened the fourth door. The second
+row moved to third, returned to first, and ended at second.
+
+"Fourth and second," he said.
+
+Mira ran the rows, resetting only between them. The doors opened as he
+predicted.
+
+The last slats were identical. What differed when they arrived was the
+state produced by the earlier slats. The machine did not preserve the
+whole history as a visible list; its current mark carried forward what
+that history had made relevant to the next update.
+
+Nor was the mark a complete archive. Different earlier rows could
+arrive at the same position, after which the machine would respond to
+the next slat in the same way. The wheel preserved an effect of history
+useful to this process, not every event that had occurred.
+
+Elias wrote the two rows so their final inputs aligned. Looking only at
+the aligned pieces made the different answers seem impossible. Reading
+from the start made them necessary.
+
+Mira placed a square of wood over the round opening. The wheel
+disappeared.
+
+"Again," she said.
+
+"I cannot see the state."
+
+"You know the starting mark."
+
+She returned the wheel to the second position before covering it. Then
+she laid out five slats: one, two, one, one, two.
+
+Elias tried to carry the mark silently. He gave his final prediction as
+the fourth door. When Mira fed the pieces into the slot, the last door
+to open was the first.
+
+"I lost it," he said.
+
+Mira uncovered the wheel. It showed the second mark.
+
+Elias replayed the sequence. He had begun from the first mark out of
+habit, discarding the starting state Mira had given him. The familiar
+shape of a reset trial had replaced the actual condition in his
+attention.
+
+He closed the opening himself.
+
+"Start from fourth," he said.
+
+Mira arranged another sequence. Elias narrated under his breath this
+time, making each prior state explicit before adding the next input. He
+did not try to remember all the slats at once. He kept only the current
+mark and changed it one step at a time.
+
+When the last slat emerged, he said, "First."
+
+Mira lifted the wooden square. The wheel stood at the first mark.
+
+The confidence felt different from his first answer in the courtyard.
+It depended on a procedure he could repeat and on a state he was willing
+to check.
+
 The invisible backpack had made the need for an internal state clear,
 but it had not shown the work of changing one. This machine did. Each
 present state entered the process that produced the next. Nothing began
@@ -1269,6 +1439,23 @@ wheel would stop.
 Elias pulled out that volume. It contained no four-door machine, but the
 drawings resembled the brass wheel beneath its round window.
 
+Across the aisle he found a stronger resemblance: a square device with
+four divisions and a central circle. For several seconds he was certain
+the search had ended. Then he read the surrounding pages. The divisions
+marked sections of a garden, and the circle showed the reach of a water
+line. Alone, the drawing had borrowed the appearance of the workshop
+device. Its use belonged elsewhere.
+
+Elias replaced it and examined what stood beside it. Books on soil,
+channels, and seasonal planting formed a coherent neighborhood around
+the misleading picture. The neighboring subjects did not dictate what
+the drawing meant, but they constrained the possibilities more strongly
+than its shape had.
+
+He returned to the shelf of gears with less confidence and a better way
+to look. Instead of asking which book resembled the machine, he asked
+which collection of uses would make the machine volume useful.
+
 He examined the neighboring books instead of carrying the volume away.
 One described small wooden cases. Another showed slotted devices that
 accepted pieces of different shapes. On the shelf below, a thin book
@@ -1300,8 +1487,29 @@ did not explain the wheel. The circular diagrams did not explain the
 case. Together, the surrounding arrangement narrowed what the thin
 volume could be useful for.
 
+"Find the book that would help predict when a marked wheel repeats,"
+Mira said.
+
+Elias did not begin again at the entrance. He followed the local shift
+from gears to counting, then from counting to sequences. Two volumes
+beyond the machine book, he found tables that returned numbered wheels
+to their starting marks after different steps.
+
+The second search changed his satisfaction into wonder. He had not
+memorized a shelf or replaced the missing labels with one of his own.
+The organization that made the first book intelligible had also guided
+him toward a related question. No single neighbor carried the route,
+but their order made the next place more likely.
+
 The removed labels had taken away quick names. They had not taken away
 the organization beneath them.
+
+Elias walked the route of his search once more without opening a book.
+At first the shelves had seemed like thousands of isolated hiding
+places. Now transitions between subjects were visible: material becoming
+construction, construction becoming motion, motion becoming sequence.
+The target had not been concealed in one perfect category. It had been
+made findable by several imperfect relations agreeing around it.
 
 "The book has its own contents," Elias said, "but part of what it means
 here is distributed across its relationships to the others."
@@ -1392,6 +1600,20 @@ book of balances. The lens belonged with the book of detailed drawings.
 
 This produced four clean groups.
 
+Elias wrote four headings on scraps of paper: *OPEN*, *JOIN*, *MEASURE*,
+and *INSPECT*. He placed one beside each group and used the measuring
+cord to mark boundaries between them.
+
+The order looked clean until he tried to defend it. The lens aided
+inspection, but so did the book of detailed drawings. The cord measured,
+joined, and sometimes helped inspection by marking a region. The hinge
+opened and joined. Each boundary made one use legible by cutting through
+another.
+
+He shifted the scraps, widened one region, narrowed another, and ended
+with the hinge sitting on a line and the cord crossing three. The table
+had become a dispute about where categories ended.
+
 "The hinge," Mira said.
 
 "With the lock book."
@@ -1421,14 +1643,27 @@ themselves.
 
 The lock book and the joinery book came closer. The hinge rested between
 them, nearer to each than to the measuring book. The key remained
-closest to the lock book and farther from joinery. The wedge stayed close to
-joinery. Elias placed the cord between joinery and measurement, a
+closest to the lock book and farther from joinery. The wedge stayed
+close to joinery. Elias placed the cord between joinery and measurement, a
 little nearer measurement because of its knots.
 
 The weight sat beside the diagrams of balances. The lens remained near
 the detailed drawings, but not as near as the key was to locks. A lens
 could help with many kinds of close inspection; it did not belong only
 to leaves and insects.
+
+Elias tested the arrangement from each object rather than from the
+headings he had removed. From the key, the lock book was nearest and the
+hinge next. From the hinge, locks and joinery both mattered. From the
+cord, measurement and joinery pulled in different directions. No item
+needed one final label; it needed a position that preserved several
+comparisons at once.
+
+He adjusted the gaps by smaller amounts. Moving the hinge nearer the key
+made its relation to the wedge weaker. Moving the cord toward the weight
+made its use in joining less visible. The arrangement became useful not
+when every position was perfect, but when the most important relations
+for Mira's question could coexist.
 
 He stepped back.
 
@@ -1469,6 +1704,20 @@ distance, and that changed what the arrangement says the hinge is like."
 He returned the hinge to the region between the two books. The table's
 meaning settled back into place.
 
+Mira moved the cord next. She placed it beside the lens, leaving the
+hinge untouched.
+
+Elias saw more than one error. The cord now appeared separated from
+measurement, separated from joinery, and unusually similar to close
+inspection. A single relocation changed every distance involving the
+cord and altered several neighborhoods at once.
+
+"Meaning did not move into the cord," he said. "The pattern of its
+relations changed."
+
+He restored it between joinery and measurement, then stood at the end
+of the table where the physical gaps were easiest to see.
+
 The arrangement showed Elias that a distributed pattern was not merely
 many parts existing at once. Their relationships carried structure.
 Nearness and separation could organize meaning that no item revealed
@@ -1476,6 +1725,25 @@ alone.
 
 "Meaning organized through relationships and distances among
 representations is representational geometry," Mira said.
+
+She took a small wooden clamp from beneath the table and set it alone in
+the light.
+
+"One feature?" she asked.
+
+"Wood," Elias said, and left it where it was.
+
+He turned the screw. The clamp could hold pieces while a joint was made.
+Its marked handle could also preserve a chosen width. Elias placed it
+near the joinery book and wedge, but angled it toward the cord and the
+book of measures.
+
+"Not a category," he said. "A set of relations to what is already
+there."
+
+The new object changed the arrangement without requiring a new region.
+It made one part of the existing structure denser and gave the cord
+another useful neighbor.
 
 Elias looked down at the key and hinge. "Geometry without measured
 inches?"
@@ -1613,6 +1881,42 @@ corresponded to ribbon and tile on the second. None of the names helped.
 The shared structure became clear only when each point was understood
 through all the others around it.
 
+Three covered points remained on each map. At first Elias tried to match
+the nearest of them one at a time. The choice failed because two stood
+at nearly equal distances from the closest pair. Either could be made
+to look correct if he considered only one gap.
+
+He began again with the whole arrangement. On the first map, one of the
+remaining points lay nearest the hinge side of the pair. Another stood
+between that point and the last neighbor. Its place mattered in two
+directions at once. The final point was farther from the pair but close
+to the middle point.
+
+Elias moved to the larger map and searched for the same set of
+relations. Rotation made no difference now. Scale made no difference.
+One covered point extended the short chain from the tile side; a second
+bridged that chain to the last. When he assigned all three together,
+every relation agreed. When he exchanged any two, several distances
+failed at once.
+
+He wrote the correspondence in two columns, then drew no lines between
+individual names. Instead he bracketed each column and wrote beneath
+it: *check every point through the pattern*.
+
+Mira covered one point on the larger map with her palm.
+
+"What can you say about the hidden point?"
+
+Elias could not name the object without peeking. He could say that it
+was not the isolated point, did not belong to the closest pair, and
+occupied the middle position between a short chain and its final
+neighbor. Those relations identified its role even while its label and
+exact position remained hidden.
+
+Mira lifted her hand. The point was where the pattern required it to
+be. Elias felt the quiet satisfaction of a prediction checked, not a
+resemblance noticed after the fact.
+
 "The maps do not match item by item," Elias said. "But the pattern of
 distances within one matches the pattern within the other."
 
@@ -1653,6 +1957,13 @@ Elias looked at the two sheets. "No. That is too much."
 
 "That these relational structures are similar. Not that the objects are
 the same."
+
+The comparison also depended on what the maps preserved. They recorded
+relative positions, not material, weight, or use. Under a question about
+those features, lens and shard might share almost nothing. Elias wrote
+*similar in this relational structure* and underlined the last four
+words. The limit did not undo the match. It stated what kind of match
+the evidence supported.
 
 "What else do you not know?"
 
@@ -1760,6 +2071,17 @@ The notebook had changed without becoming more complete. Its first
 blank pages had waited for conclusions. The blank pages that remained
 now seemed to wait for better observations.
 
+He turned back once, from the maps to the first page. The distance
+between them was greater than the thickness of the intervening paper.
+At the beginning, each correction had felt like evidence that he had
+failed to see quickly enough. Now a crossed-out claim could preserve
+the path by which a question became more exact.
+
+He had not accumulated a set of final answers. He had become less
+willing to mistake a convenient answer for a sufficient one. The
+notebook did not protect him from error. It gave error a visible place
+from which the next observation could begin.
+
 Elias looked across the courtyard. Rain blurred the far archway, but it
 also darkened every joint between the stones. Details disappeared and
 others emerged. He could not notice everything at once. As the rain
@@ -1823,6 +2145,22 @@ Elias made a third drawing. Top. Bottom. Top.
 "Which way?"
 
 He looked at the three drawings. "The drawings do not say."
+
+The groove limited the possibilities without choosing among them. From
+top to bottom, the marker could have traveled along the right half or
+the left. From bottom to top, it again had two ways. Elias drew four
+small combinations beneath the snapshots.
+
+In the first, the marker went down the right and continued around the
+left, completing a circle. In the second, it went down the right and
+returned along the same half. The third and fourth mirrored those paths
+on the left. Every one began at top, passed through bottom, and ended at
+top. Every one fit all three drawings.
+
+He looked for evidence in the final picture. The arm's angle matched the
+first exactly. The brass marker showed no trace of which side had warmed
+against the groove. A complete record of the selected moments still
+allowed several incompatible movements between them.
 
 "Then give me a hypothesis."
 
@@ -1901,6 +2239,52 @@ which one position led to the next.
 "The transitions," he said. "Not only where it was, but how it moved
 from one place to another."
 
+Mira took the notebook and, with Elias's permission, copied four of his
+circles onto separate scraps. One showed the marker at the top, one at
+the right, one at the bottom, and one at the left. She set them in a row
+across the bench.
+
+"Clockwise," Elias said.
+
+She exchanged the right and left scraps.
+
+Now the same four positions described the counterclockwise run. Nothing
+inside any single picture had changed. Only the neighboring pictures
+had.
+
+Elias made a second set and arranged both runs beneath one another. He
+put a blank scrap between each pair of positions and tried to write
+what belonged there. *Moved* was too weak. It did not distinguish the
+rows. *Passed through the right side* helped in one place but described
+a location more than a change.
+
+He drew an arrow on each blank and read the rows from left to right. At
+the bottom position, the first row arrived from the right and departed
+toward the left. The second arrived from the left and departed toward
+the right. The same snapshot belonged to two different continuations
+because its surrounding sequence differed.
+
+"If I found only this page," he said, touching the bottom circle, "I
+could not recover which run it came from."
+
+"And if you found all four pages loose?"
+
+He gathered the scraps, mixed them, and spread them again. There were
+several orders he could make without altering a single recorded
+position. Two matched the movements he had watched. Others made the arm
+jump across the board or reverse halfway around. The collection of
+states did not select its own history.
+
+He rebuilt the two observed rows, leaving the arrows between them.
+
+"The arrows are not decoration," he said. "Without the ordering, I
+have the places but not the run."
+
+Mira removed the top scrap from both rows. Each now began at a different
+visible place, yet Elias could still distinguish them by the direction
+of the remaining transitions. Beginning and ending positions were not
+enough; the organization through the middle carried the difference.
+
 Mira rested the handle.
 
 "A still map gives the state at one moment," Elias said. "But the state
@@ -1917,6 +2301,38 @@ saw what the freezing removed. An internal state did not remain at one
 position among others. Recurrent updates carried it onward. Its path
 through successive states—a trajectory—could contain structure that no
 isolated position retained.
+
+"Are the arrows enough?" Elias asked.
+
+Mira answered with the handle. She turned the marker clockwise at an
+even pace. The pin clicked at the bottom halfway through the interval
+between beginning and end.
+
+She reset it and traced the same direction again. This time the marker
+moved quickly through the right side, nearly stopped at the bottom, then
+completed the left side slowly.
+
+Both runs visited the same positions in the same order. Elias's arrows
+would make them identical. Watching them did not.
+
+He placed short marks around one drawn circle at equal intervals. On
+the second, he crowded several marks along the quick first half and
+spread them around the slower second. The drawings remained crude, but
+they preserved that equal lists of positions and equal directions could
+still unfold differently through time.
+
+"So a better record depends on the question," he said. "For direction,
+the arrows may be enough. For the change in pace, they are not."
+
+The still page had not become useless. It had become an answer with a
+boundary. Elias felt his attention move from collecting more frames to
+asking what relation the record needed to preserve.
+
+At the beginning of the demonstration, each pause had felt generous: a
+chance to catch up and make a complete picture. Now he heard the pause
+as a cut through an event. He would still stop a process when a still
+state answered the question, but he would no longer confuse the ease of
+drawing that state with the completeness of understanding it.
 
 Mira set the device moving again.
 
@@ -1939,6 +2355,15 @@ and left positions.
 
 Elias did not draw it immediately. One more snapshot would not preserve
 the slowing that had brought it there.
+
+He could have asked Mira to stop the arm at twice as many places, then
+twice as many again. The gaps would shrink, and the record might answer
+a more exact question about position. Yet every mark would still be a
+selected moment. The slowing lived in the relation among those moments,
+not inside the final dot.
+
+Instead of filling the page with circles, he watched a second time and
+chose a mark that changed with the motion.
 
 He drew part of the circle instead, then an arrow that narrowed as it
 approached the stopping point. It was an imperfect mark, but it tried to
@@ -2022,6 +2447,23 @@ fourth event of the first sequence with the second event of the other.
 The events before and after no longer agreed.
 
 He crossed out the pairing.
+
+He made a small table with five rows, one for each event. In the first
+two columns he copied the exact marks occupied by the sliders. In the
+next two he copied the names he had given the notes: *low*, *higher*,
+*middle*, *highest*, *lower again*. The names only disguised the
+difference. A note called *higher* in one row might still be lower than
+every note in the other sequence. An event near the end of one groove
+could correspond to an event near the middle of the other.
+
+He drew horizontal lines from each event in the first system to the
+most similar-looking event in the second. The lines crossed until the
+page looked like a badly tied net. Preserving one direct match destroyed
+the order around it.
+
+Elias turned to a clean page. Exact note: no shared value. Exact
+position: no shared value. Exact mark: not even the same kind of sign.
+The list of failed matches was precise and useless.
 
 Next he tried positions. The short slider's second cut was near the left
 end, while the tall marker's nineteenth was near the top. Perhaps both
@@ -2109,6 +2551,41 @@ The pitches did not match the positions, and the positions did not match
 one another. Still, each rise, reversal, larger advance, and return
 occurred in the same order.
 
+Elias asked Mira to repeat the taller sequence alone. He closed his eyes
+for the first two notes so their absolute pitch would not seize his
+attention. The first interval rose. The next reversed and covered half
+as much change. The third reversed again and covered more than the first.
+The last returned by the same relation with which the sequence had
+begun.
+
+When he opened his eyes, the marker was nowhere his short device could
+reach. He could nevertheless anticipate the direction of the final move
+before Mira made it. The prediction came from the pattern already heard,
+not from a matched position.
+
+He drew both sequences as stairs, one with shallow steps and one with
+deep ones. Then he placed a narrow strip of paper over the taller
+drawing and copied only the directions and relative lengths. When he
+reduced the tracing, its turns lay over the smaller path: advance,
+partial return, larger advance, return. The overlap was not exact ink
+on ink. It was a correspondence among ordered changes.
+
+"If I started both somewhere else?" he asked.
+
+Mira moved the short slider one cut along its groove and placed the tall
+marker two cuts farther down its track. She left enough room for the
+sequence in each direction.
+
+Elias performed the motions again. The first marker now ended beyond
+the place he had previously called its final state. The second ended
+below its former one. None of the old pairs of snapshots survived, yet
+the same pattern unfolded between the new starting and ending points.
+
+He added the two new paths beneath the old ones. Four trajectories now
+occupied different parts of the page. Their shared organization became
+easier, not harder, to see because no single position could pretend to
+be the source of the match.
+
 Strain gave way so quietly that Elias noticed only when he stopped
 trying to force a shared snapshot. The two systems could remain
 different at every moment and still carry a comparable pattern through
@@ -2138,6 +2615,18 @@ trajectories rather than isolated states is dynamic similarity
 analysis," she said.
 
 Elias wrote the term beneath his arrows.
+
+He placed a bracket around the five observed changes. The comparison
+belonged first to that interval. A sixth change might preserve the
+pattern or break it; the present sequence could not decide. Nor did the
+shared structure make every feature of the trajectories similar. One
+device still moved horizontally, the other vertically, and the notes
+remained in different ranges.
+
+The disciplined claim was narrower than *these systems move alike*:
+through the tested sequence, the relationships among their changes
+corresponded. That was enough to reveal a common organization without
+turning partial similarity into identity.
 
 The phrase was longer than the insight felt. A snapshot asked where each
 system was. A trajectory comparison asked how each one changed relative
@@ -2225,6 +2714,25 @@ Small gear. Broad wheel. Long hand. Lower wheel. Bell pin.
 
 He wrote the order beside the drawing.
 
+The confidence felt earned. He had not watched one cycle and guessed.
+He had followed ten, sometimes attending to the teeth, sometimes the
+cords, sometimes the pin that lifted the bell. When he covered the lower
+half of the clock with his notebook, the sound let him predict when the
+hidden dial would move. When he watched only the dial, the sequence of
+clicks let him predict the bell.
+
+On a second page he drew a chain of arrows. Each part pointed toward the
+one that moved after it. The arrows turned repeated order into a claim
+about dependence almost without his noticing. Because the small gear
+moved first whenever he looked, he placed it at the beginning and drew
+no arrow into it.
+
+There were other possibilities. The wound cord might drive several
+parts through connections behind the frame. The broad wheel might turn
+the small gear while also moving the hand. But those alternatives felt
+less immediate than the visible succession. Elias wrote them in the
+margin and then boxed his original chain.
+
 "Now?" Mira asked.
 
 "The small gear sets the movement. It drives the broad wheel, which
@@ -2249,6 +2757,18 @@ hands will stop and the bell will not ring."
 
 Elias recorded the prediction beneath his arrows.
 
+Once written, the claim felt different from the boxed diagram above it.
+The diagram could absorb another observation by gaining another arrow.
+The prediction exposed a consequence that would either occur or not.
+He added separate expectations for the long hand, lower dial, and bell
+so that one failure could not be hidden inside the word *nothing*.
+
+Long hand still. Lower dial still. Bell silent.
+
+He almost added *probably*, then stopped. Uncertainty belonged in the
+strength of his conclusion after the test, not in a word used to make
+every possible result resemble success.
+
 The gear was held by a pin with a flat head. He pulled the pin free,
 lifted the small wheel from its axle, and placed it in a shallow wooden
 tray. The empty axle looked slight and unfinished.
@@ -2260,6 +2780,11 @@ Mira wound the clock.
 The broad wheel turned.
 
 The long hand advanced by one mark.
+
+For an instant Elias waited for the motion to fail. It did not. His
+boxed chain remained on the open page, clear enough to make the error
+feel larger than the drawing that held it. Careful observation had not
+protected him from arranging sequence into cause.
 
 Elias leaned close to the empty axle. Nothing touched it. Behind the
 wooden frame, something he could not see continued to carry the broad
@@ -2278,6 +2803,26 @@ The missing gear remained in its tray.
 Mira allowed the clock to complete another four steps. The main hand
 advanced. The bell sounded at the same interval. The lower dial stayed
 at its starting mark.
+
+Elias drew three rows beneath his prediction.
+
+*Long hand: predicted still. Observed moving.*
+
+*Bell: predicted silent. Observed ringing.*
+
+*Lower dial: predicted still. Observed still.*
+
+One correct prediction did not rescue the explanation. He had expected
+the lower dial to stop for the wrong reason: because he thought the
+whole clock would stop.
+
+Mira wound the cord with less tension. The long hand advanced more
+slowly, and the spaces between the clicks widened. The bell still rang
+at the fourth step. The lower dial did not move.
+
+With greater tension, the visible parts moved faster. The same division
+remained. Speed changed; the pattern of affected and unaffected
+functions did not.
 
 Elias crossed out his prediction.
 
@@ -2306,6 +2851,22 @@ Repeated observation had shown the small gear moving with every part of
 the clock. One deliberate absence had separated what continued from
 what did not.
 
+He drew a line between two statements.
+
+*The small gear moves whenever the lower dial moves.*
+
+*Changing the presence of the small gear changes whether the lower dial
+moves in these trials.*
+
+The first summarized what he had watched. The second depended on the
+deliberate absence and carried a stronger causal claim. Neither said
+that the gear alone was sufficient, or that no other path could ever
+move the dial.
+
+The distinction gave him respect not for disturbance by itself, but for
+a change tied to a prediction and a measured consequence. Removing
+parts at random would produce damage, not necessarily understanding.
+
 Elias picked up the gear but did not replace it yet.
 
 "Observation gave me possible explanations," he said. "Changing the
@@ -2326,8 +2887,8 @@ than observation alone," Elias said.
 
 "That deliberate change is an intervention," Mira said.
 
-The term had emerged from the empty axle, but the empty axle did
-not explain the whole clock. Elias still did not know what drove the
+The term had emerged from the empty axle, but the empty axle did not
+explain the whole clock. Elias still did not know what drove the
 broad wheel behind the wooden frame. He did not know whether removing
 the gear had altered resistance elsewhere, or what another missing part
 would change.
@@ -2337,11 +2898,43 @@ He fitted the gear back onto its axle and replaced the pin.
 The clock ran again. This time the lower dial moved with the others. Its
 return did not erase what the absence had shown.
 
+Elias compared three records: gear present before removal, gear absent,
+gear present after replacement. The lower dial moved in the first and
+third and remained still in the second. The main hand and bell continued
+through all three. The reversible pattern strengthened the claim that
+the altered part mattered to the dial under the tested conditions.
+
+It did not tell him whether the teeth transmitted motion directly or
+whether removing the wheel changed pressure on a hidden linkage. Even a
+clean difference allowed more than one account of how the difference
+was produced.
+
+"I want to see behind the frame," he said.
+
+"Because the result is unclear?"
+
+"Because it is clear only about part of the question."
+
+That answer surprised him. Earlier, partial knowledge had felt like an
+embarrassment to be concealed by a complete-sounding claim. Here the
+partial result was the most reliable thing on the page. He could state
+what changed, what did not, and which explanations remained.
+
 "If I removed the broad wheel next—" Elias began.
 
 "Would that answer everything?" Mira asked.
 
 "No. It would test another change. Each result would remain partial."
+
+He considered what would make that next change worth performing. He
+would need competing expectations, an alteration narrow enough to
+interpret, and a record of consequences beyond the one part he hoped to
+understand. He would also need to restore the clock and check whether
+its former behavior returned.
+
+The lesson was not that removal always revealed truth. It was that a
+deliberate change, joined to a prediction and bounded conclusion, could
+answer a causal question that watching alone had left open.
 
 He closed the notebook before the list of possible removals became a new
 kind of completeness.
@@ -2399,6 +2992,18 @@ take us to the cracked junction from another entrance."
 Elias studied her face, looking for the question behind the instruction.
 She gave him none.
 
+He made the copy more exact. With the edge of another card, he checked
+the separation of the closest pair and transferred it to the page. He
+measured the angle from hinge to wedge against the notebook's ruled
+lines. Beside each point he wrote its rank from nearest to farthest
+neighbor. The finished page carried more of the library arrangement
+than his first sketch had.
+
+Elias added a small legend: key meant the first choice, hinge the
+second, wedge the third. He was less certain what cord, weight, and lens
+should mean, but expected the route itself to make that clear. Exactness
+gave the uncertainty a polished border.
+
 They left the cards on the table and carried the notebook to the maze.
 
 The new entrance opened into a short passage Elias had not walked
@@ -2432,6 +3037,16 @@ At the next junction, three passages opened. The page placed the cord
 between wedge and weight. He took the middle path. It curved back toward
 the entrance and left them standing within sight of their first turn.
 
+He tried the page in the opposite orientation. Now its isolated point
+seemed to favor a narrow side passage. Turned again, the closest pair
+could be made to justify the two openings behind them. The copied
+arrangement was flexible in the least useful way: without a rule that
+connected its relations to this task, almost any choice could be
+defended after it was made.
+
+The careful measurements in the notebook had survived. Their purpose
+had not.
+
 He closed the notebook around one finger.
 
 "This is not working."
@@ -2455,10 +3070,16 @@ There was no pause in which she defended it and no change in her voice.
 She stated the error as plainly as she had asked him to state the crow's
 movements.
 
-The disappointment Elias had felt toward the page loosened. He had
-imagined Mira waiting for him to discover a mistake she already
-understood. Instead, they were standing together inside a failed
-hypothesis.
+Elias looked back toward the entrance. He had built much of his effort
+around Mira already knowing where each demonstration led. Her certainty
+had seemed like part of the Institute's architecture: another wall he
+could use to orient himself. Hearing her name an actual failed
+expectation removed that wall.
+
+The exposure did not make her smaller. It changed what he understood
+the work between them to be. She had not led him into the dead end to
+watch him fail. They had reached it by trusting the same insufficient
+idea, though for different reasons.
 
 "What did we preserve that the maze does not use?" he asked.
 
@@ -2470,6 +3091,29 @@ not write. She returned it open.
 "What might remain useful?"
 
 "The relationships."
+
+"All of them?"
+
+Elias returned to the copied distances. The precise angle of the
+library table could not tell them how a stone passage turned. The fact
+that lens stood alone had mattered to a comparison of uses, but a route
+might have no useful isolated point. Even relational structure could
+not be carried whole merely because it was relational.
+
+"Only the parts this route can test," he said.
+
+He drew two possible revisions. In the first, the six old names became
+fixed commands: key meant right, hinge meant left, cord meant forward.
+It was another disguised list of turns. If the entrance changed, the
+list would fail in the old way.
+
+In the second, the pieces kept no fixed command. Their arrangement
+recorded roles he could look for: two decisions close in succession, a
+third related to one of them, a longer separation, an endpoint apart
+from the cluster. It could be revised as the route supplied evidence.
+
+"This one does not contain the path," he said, touching the second.
+"It gives me relations to check while I build the path."
 
 They sat on the low stone edging at the fork. Elias copied six small
 squares onto a clean page and drew no objects inside them.
@@ -2523,6 +3167,23 @@ The route divided again. One path returned toward the close turns. The
 other continued through a longer corridor. Elias put the cord card
 between the cluster and the remaining two cards.
 
+He did not choose immediately. The returning path was physically nearer
+the close turns and therefore made the arrangement look more exact. The
+long corridor weakened the copied distances but preserved the role of a
+passage linking the close decisions to something farther away.
+
+"Prediction," he said. "If the useful relation is the sequence of
+roles rather than the drawn inches, the long corridor should lead to a
+choice separated from the cluster. If it loops back before another
+choice, this revision fails."
+
+They followed it far enough that the sounds from the close turns faded.
+The corridor crossed no opening, then ended at a fork. Elias placed the
+weight card near the cord and kept the final card apart.
+
+The page had not supplied the fork. The fork had answered a prediction
+made from the page's revised organization.
+
 "You are moving the arrangement," Mira said.
 
 "I am changing its surface to preserve what the task can use."
@@ -2550,6 +3211,21 @@ choice."
 transfer," Mira said.
 
 Elias wrote the term beneath the questions.
+
+He turned back one page to the exact library copy. Its distances were
+still accurate. Nothing about the failed route made the earlier
+representation bad for arranging the books and objects. Failure had
+appeared when they assumed that usefulness in one setting guaranteed
+usefulness in another without revision.
+
+On the new page, the pieces no longer formed a neat replica. The gaps
+had stretched with the corridors, and two cards had exchanged sides.
+Yet the questions had helped them anticipate close decisions, a linked
+third turn, a longer separation, and the isolated junction.
+
+"So the evidence is not that the old representation traveled
+unchanged," Elias said. "It is that some of its organization remained
+useful after the new task forced us to alter it."
 
 "A bridge between tasks," he said.
 
@@ -2607,6 +3283,21 @@ Both pointers stopped at the third line.
 
 Two notches produced the second line. One produced the first again.
 
+Elias changed the order. Three, one, three, two, one. Both machines
+answered each tile at the same line. He left the one-notched tile in the
+left machine for several breaths before turning its handle and inserted
+the matching tile into the right only at the last moment. The delay
+changed nothing.
+
+He asked Mira to choose the tiles while he watched only the pointers.
+For six trials the two hands began together, crossed the same fractions
+of their differently marked dials, and stopped together. When he looked
+at the input afterward, both answers agreed with it.
+
+The repeated behavior resisted his small attempts to separate it. Each
+failed separation made the claim of shared internal work feel more
+reasonable.
+
 The machines were the same size, but they had not been made to look
 identical. The left case used dark wood and square joints. The right was
 pale and rounded at the corners. Their dials used different marks. Their
@@ -2644,9 +3335,24 @@ points of contact: input slot, handle, pointer, and the narrow pin that
 rose after an answer. Changing the tiles had not separated them. Turning
 one handle more slowly changed the timing but not the final mark.
 
-The pin was different. It appeared after every answer and just before
-the pointer returned to rest. If it had the same causal role in both
-machines, removing it should have the same effect.
+He considered the handles first. Removing one would prevent him from
+operating a machine, but the resulting silence would say little about
+how an answer was formed. Covering one dial would change what he could
+see, not what the machine did. A different tile could reveal another
+behavior, yet it would still compare outputs rather than the processes
+behind them.
+
+The pin offered a narrower question. It moved during the sequence and
+could be removed without preventing an input from entering or a handle
+from turning. Elias drew two possibilities. In one, the pin belonged to
+the path that carried a tile's effect to the pointer. In the other, it
+acted after the answer, perhaps preparing the machine for what came
+next. The normal trials did not choose between them because the pin rose
+at the same visible moment in both cases.
+
+The normal trials left one discriminating prediction: if the pin had
+the same causal role in both machines, removing it should have the same
+effect.
 
 "The pins," he said.
 
@@ -2677,6 +3383,12 @@ before.
 
 Elias looked at the two removed pins. "Different already."
 
+The left handle had turned through its full arc. Its internal clicks had
+sounded. Only the pointer's answer was absent. On the right, the answer
+appeared despite the missing part. Matching outputs had not merely
+hidden a difference in decoration. They had hidden a difference in
+where the same-looking part entered the process.
+
 "Enough?"
 
 He remembered the missing gear. One changed behavior did not complete
@@ -2705,6 +3417,35 @@ input produced no visible answer at all.
 He restored both. One notch led to first on each. Two led to second.
 Three led to third. The shared behavior returned.
 
+"Perhaps the pins themselves differ," Elias said.
+
+They looked identical, but appearance had already proved a poor guide.
+He removed them again, placed the left pin beside the right case and the
+right pin beside the left, and wrote another prediction. If some hidden
+difference in the pieces produced the different effects, exchanging
+them might carry the effects across. If the surrounding organization
+assigned the roles, each machine should behave normally when given
+either fitted pin.
+
+He inserted the exchanged pins.
+
+One notch produced the first answer on both. Three produced the third.
+After each trial, the borrowed pin on the right rose and returned just
+as the original had. The borrowed pin on the left accompanied the
+pointer's movement.
+
+Elias stopped the machines and removed the exchanged pins once more.
+The left machine again failed to produce a visible answer. The right
+again produced one and failed to reset it before the next trial.
+
+"The difference did not travel with the brass piece," he said. "It
+belongs to how each machine uses that position and its connections."
+
+He restored each pin to its original case. The exchange had ruled out
+one simple explanation, not revealed every connection around either
+pin. A hidden difference in the mountings, linkages, or later steps
+could still account for the result.
+
 Mira folded her hands on the bench. "Same computation?"
 
 "No. At least not throughout. The left machine depends on its pin to
@@ -2728,11 +3469,46 @@ Elias wrote *mechanism* beneath both drawings, not between them. The word
 did not belong to the answer alone. It belonged to the process that made
 the answer.
 
+He returned to the table of normal trials. None of its rows became
+false. For one-, two-, and three-notched tiles under the tested setup,
+the machines still produced matching answers. The intervention had
+changed the conclusion those rows could support, not the observations
+themselves.
+
+Before, he had read the table as proof of one hidden process. Now it
+described a shared behavior compatible with at least two processes. The
+same evidence had acquired a stricter boundary because another kind of
+evidence had exposed what output alone left unresolved.
+
+He expanded the drawings into sequences. Both began with an input tile
+and ended with a pointer at the matching line. Between those endpoints,
+he left several blank spaces. In the left sequence the tested pin had to
+act before the visible output. In the right it affected what state the
+machine carried into the following trial. The blanks were not evidence
+that anything could be inserted there; they marked what the tests had
+not yet resolved.
+
+The diagrams looked less complete than his first claim of identical
+organization. They were also harder to contradict with the evidence he
+had. Surprise had not left him unable to compare the machines. It had
+made the comparison more exact: shared behavior here, different causal
+roles there, unknown organization elsewhere.
+
 The result required caution in both directions. The machines were not
 fully equivalent because their answers matched. They were not fully
 different because one intervention separated them. They still shared
 the tested input-output behavior, and they might share other internal
 relations he had not examined.
+
+They might also separate under an input he had not tried. Elias had
+tested three tiles and one sequence of repeated trials. He resisted
+turning *same on these inputs* into *same behavior everywhere*, just as
+he resisted turning one different causal role into *different in every
+respect*.
+
+Mechanistic caution did not require refusing comparison. It required
+saying which sameness had been demonstrated, which internal difference
+had been tested, and which conclusions remained open.
 
 "Two constructions can support the same answer," Elias said.
 
@@ -2748,6 +3524,11 @@ when he changed the pins and followed what happened across trials.
 He almost said yes. The cases seemed to stand between him and certainty.
 If every bar, wheel, and pin inside were exposed, perhaps the remaining
 questions would become observations.
+
+He imagined copying every visible component into the notebook. The
+differences would multiply: lengths, materials, directions, positions.
+Without a question connecting those details to the tested behavior, an
+open case might leave him with more information and no better account.
 
 Mira covered the two machines with a plain cloth and moved them to the
 end of the bench.
@@ -2770,6 +3551,12 @@ the bottom.
 Every axle, tooth, joint, and pin was visible.
 
 "At last," Elias said.
+
+He moved closer until his reflection entered the front pane. In the
+earlier machines, wood had concealed connections and forced him to
+infer. Here concealment seemed to have been removed as a source of
+error. He expected the remaining work to be patient transcription: see
+the parts, follow them, understand the whole.
 
 Mira stood on the other side of the case. Her reflection appeared beside
 her, faint and slightly displaced.
@@ -2815,6 +3602,22 @@ center.
 
 Elias wrote until the page resembled the crowded garden notes.
 
+He numbered the visible wheels, then ran out of confidence about which
+reflections belonged to which axle. Wheel seven might have been the
+rear face of wheel four. Two thin rods crossed without touching, though
+their glass images made them look joined. The cords disappeared behind
+other moving parts for only a finger's width, but when they emerged he
+could not be certain which was which.
+
+He started a second inventory organized by time. First the input wheel
+moved, unless the rear lever began a fraction earlier. Then the rods
+lifted, the cord tightened, the floor bars shifted, and the latch
+dropped. On the next trial, several events overlapped closely enough to
+exchange order depending on where he looked.
+
+Complete access had not produced a complete sequence. Attention still
+selected one path through the movement and lost others.
+
 Mira ran both trials again. More details became available. A thin wheel
 near the back reversed twice. The right cord trembled after the latch
 stopped. A wooden bar beneath the track moved even though the bead never
@@ -2843,6 +3646,16 @@ needed to begin with every tooth. He needed to follow what differed
 after the preparatory tile and remained present when the smooth tile
 arrived.
 
+He made three columns beneath the question: *changes differently*,
+*returns to the same state*, and *not yet followed*. The bright rear
+wheel spun during both preparations and returned to its starting mark.
+The lower bars moved in both, though perhaps in a different order. The
+central latch ended left after one notch and right after two. Several
+parts remained uncertain.
+
+The columns were not an explanation. They prevented the most visible
+motion from automatically becoming the most important.
+
 "Again," he said.
 
 Mira inserted the one-notched tile.
@@ -2867,6 +3680,15 @@ Mira waited.
 "Hypothesis: the first tile sets the latch. The latch preserves a useful
 part of that history. When the same smooth tile releases the bead, the
 latch changes the gate and therefore the branch."
+
+He drew the claim as a sequence with two stages. The preparatory tile
+changed the latch. A pause followed in which most of the machine reset
+but the latch did not. The smooth tile then released a bead into a gate
+whose direction depended on that remaining state.
+
+If the drawing was right, the latch was not merely moving at the same
+time as the rest. Its position should matter even when the history that
+normally produced it was changed.
 
 "Test?"
 
@@ -2896,6 +3718,34 @@ The bead rolled left.
 Elias removed the stop. They repeated the two-notched trial. The latch
 moved right and the bead followed the right branch again.
 
+"The other direction," Elias said.
+
+He reset the machine, allowed the two-notched tile to set the latch
+right, and placed the wooden stop so it could not return left. Then Mira
+inserted the one-notched preparatory tile. Wheels reversed, rods lifted,
+and the cord pulled. The latch pressed toward the left but remained
+right.
+
+Before the smooth tile entered, Elias wrote: *If latch position guides
+the gate, bead right despite one-notch history.*
+
+The bead fell, struck the gate, and rolled right.
+
+Holding the latch left had made both histories produce a left result.
+Holding it right had made the normally left-producing history give a
+right result. The pair of changes supported both directions of the
+claim more strongly than watching the latch and bead move together.
+
+Elias removed the stop and checked the ordinary trials once more. One
+notch, then smooth: left. Two notches, then smooth: right. The machine's
+usual behavior returned.
+
+He went back to the bright rear wheel that had first caught his eye. It
+had spun during every preparation and stopped before every bead fell.
+Its motion might matter elsewhere, but under his present question it did
+not preserve the difference that predicted the branch. He marked it
+*unresolved*, not *irrelevant*.
+
 "The intervention supports the latch's causal role," he said.
 
 "Explains the machine?"
@@ -2912,12 +3762,28 @@ difference between the two outputs.
 Together, those observations supported a provisional account. None had
 been supplied by glass alone.
 
+Elias read the account against the machine. It connected an input
+history to a persisting internal difference, the difference to the
+gate, and the gate to an output. It predicted what happened when the
+latch was held against either history. It also exposed its own edges:
+the source of the latch movement, the reset, and the other gears
+remained unexplained.
+
+That combination made the account feel different from an inventory. An
+inventory became impressive as it accumulated parts. The account became
+useful as it survived questions that might have made it fail.
+
 "The effort to understand an internal process is interpretability,"
 Mira said. "Visibility by itself is not explanation."
 
 The term belonged not to the case but to the work Elias had done around
 it: choosing a question, building a model, following changes, testing a
 causal role, and leaving the untested parts open.
+
+He crossed out the first words he had spoken: *At last.* Visibility had
+given him access he had lacked at the clock, and that access mattered.
+But understanding had still required him to decide which relation to
+follow, what consequence to predict, and where the evidence stopped.
 
 He moved to the side of the bench. From there the late light struck the
 glass at a shallower angle. Reflections that had hidden the central latch
@@ -2937,6 +3803,15 @@ and a list of uncertainties.
 He trusted it more than his first explanations of the crow. He did not
 trust it as a final answer.
 
+The difference lay in the account's obligations. It named the behavior
+it addressed. It connected observations across time. It survived a
+test that could have contradicted it. It also named visible parts and
+causal links it had not explained.
+
+Trust, Elias saw, did not require pretending that the blanks were
+filled. It required making the filled parts answerable to evidence and
+keeping the blanks available for the next question.
+
 What made a provisional explanation worth trusting?
 
 ## Chapter 15 — The Maze That Remembered
@@ -2950,6 +3825,12 @@ no mark for visitor, apprentice, or steward.
 Mira stopped outside. "Lead."
 
 Elias entered.
+
+The first time, he had treated the entrance as the beginning of a test
+whose answer existed somewhere ahead. Now it was one observation within
+a larger, unfinished structure. A route could begin here without the
+maze beginning here, just as a single visible state did not contain the
+history that produced it.
 
 At the first fork, he did not ask which passage was correct. He asked
 where each would place him in the model he carried. The right path
@@ -2995,6 +3876,27 @@ It bent once and joined the expected passage.
 He felt satisfaction, then checked it. One successful prediction
 supported the model; it did not complete the maze.
 
+The joining passage allowed two accounts. Perhaps the corridor they had
+walked connected directly to the paired junctions. Or perhaps it had
+curved around an unseen square and entered from another side. Both
+accounts fit the turn at which they now stood.
+
+Elias looked ahead. The direct connection predicted a short distance to
+the next division. The curved account predicted a longer wall and the
+sound of water remaining on their left.
+
+They walked. The wall continued, and the water stayed with them. Elias
+discarded the direct connection and kept the curve. The difference had
+been hidden at the junction and revealed by what followed.
+
+"You did not ask me," Mira said.
+
+"The path could answer first."
+
+It was not independence from her that mattered. It was the habit of
+making his uncertainty specific enough for the world to press against
+it.
+
 At the next division, Mira looked toward him rather than toward either
 path.
 
@@ -3009,6 +3911,15 @@ approach."
 Elias chose the route whose middle section remained uncertain. It moved
 away from the familiar wall, crossed two turns he could place only
 approximately, then returned them to the square with the narrow crack.
+
+At the first of those turns, the two possible routes agreed about the
+next opening. They differed only about what should come after it. Elias
+kept both possibilities rather than choosing one silently. At the
+second turn, a sloping passage appeared where only one account allowed
+it. He followed that account and let the other go.
+
+Nothing announced the correction. No bell rang in the walls. A weaker
+model stopped earning its place.
 
 The shallow chip remained beside its lower end.
 
@@ -3025,6 +3936,17 @@ nothing.
 They left by a route Elias had not predicted in advance. He followed it
 as another test, revising the connections he carried whenever a turn
 failed to match.
+
+Once, the route crossed a junction he recognized but approached it from
+a side he had never used. Its crack and chip were absent, yet its
+relations to two nearby turns matched. Elias identified it through the
+neighborhood, then predicted that a narrow exit would open after the
+next right bend. It did.
+
+The success did not restore his earliest hunger for a perfect map. It
+showed that a provisional one could guide action while remaining open
+to correction. He could trust it enough to test, and doubt it enough to
+notice when the stone disagreed.
 
 When they reached the entrance, the stone walls looked no different
 from when they had gone in.
@@ -3070,6 +3992,12 @@ encountered that spoon before. Something near the window may have
 changed its action. The blackened bowl may have drawn its attention
 first. Or the relevant cause may not be visible to us."
 
+He numbered the possibilities without ranking them by how vivid they
+felt. Grip, place, prior encounter, change near the window, sequence of
+attention, unobserved cause. Several could act together. The list was
+not valuable because it was long. It was valuable only if the
+possibilities led to different expectations.
+
 "Which answer?"
 
 "None yet. They are hypotheses constrained by the observation, not the
@@ -3083,6 +4011,33 @@ place. We could compare repeated encounters and keep the history. We
 could change one visible relation at a time and predict what each
 hypothesis would lead us to expect."
 
+He drew four small positions on the page. If the crow followed the dull
+spoon when it moved, that would support an object-related account over a
+fixed-place account. If it returned to the old position despite a
+different spoon occupying it, the place account would gain support. If
+rotating the same spoon to make its handle easier to reach changed the
+choice, grip would become more plausible.
+
+The history hypothesis required more than repeating the arrangement.
+They would need to record which spoons the crow had encountered before,
+in what order, and whether its later action changed. The window
+hypothesis required observations when activity near the upper windows
+differed while the spoon arrangement remained as stable as they could
+make it.
+
+"Not all at once," Elias said. "If we change position, orientation, and
+what happens at the window together, the result will not distinguish
+the explanations."
+
+Mira pointed to the four drawn positions. "Which first?"
+
+"Exchange the dull and silver spoons while preserving their
+orientations as closely as possible. The object and place hypotheses
+make different predictions there. Then repeat, because one choice could
+still reflect chance or history we have not recorded."
+
+He left space beside each prediction for a result that had not happened.
+
 "Would that reveal everything?"
 
 "No. Each intervention would distinguish some explanations and leave
@@ -3094,6 +4049,10 @@ upper wall.
 
 Elias did not follow it with an answer.
 
+Nor did he mistake a possible experiment for permission to command the
+crow's return. The next observation might require waiting. A careful
+question did not make the world owe him an immediate result.
+
 Mira looked at the open notebook. "What answer will you take from the
 Institute?"
 
@@ -3101,6 +4060,13 @@ He had imagined this moment before he arrived: a final sentence, concise
 enough to carry away, certain enough to prove he belonged. The desire
 had not disappeared because certainty was foolish. It had changed
 because certainty could end the work too soon.
+
+He understood now what remaining at the Institute would demand. Not the
+performance of always being right, and not passive admiration for
+Mira's demonstrations. It would require him to preserve evidence that
+complicated his own explanations, design tests whose results could
+disappoint him, and help decide which uncertainty deserved attention
+next.
 
 "A way of continuing," he said. "Build a provisional model from
 observation. Ask what it predicts. Test causal claims by changing
@@ -3112,6 +4078,19 @@ question."
 The term did not close the notebook. It named the responsibility to keep
 improving what the notebook held.
 
+It was not one procedure applied unchanged to every question. Sometimes
+the needed discipline was to separate observation from explanation.
+Sometimes it was to preserve a hidden history, compare relationships,
+follow a process through time, or change one part and record the
+consequence. Each method earned its place by the question it could make
+more precise.
+
+Elias could not guarantee that the next model would be right. He could
+make its assumptions visible, state what would count against it, and
+revise without treating revision as defeat. The responsibility was not
+to eliminate uncertainty before acting. It was to keep uncertainty from
+becoming an excuse for careless certainty.
+
 "And your better question?" she asked.
 
 Elias wrote:
@@ -3120,6 +4099,16 @@ Elias wrote:
 would make us revise the one we trust most?*
 
 Mira leaned closer to read it. "What should we examine first?"
+
+She did not tell him whether the sentence was correct. Elias no longer
+needed the question to end in her approval. Its value would lie in the
+observations it organized, the alternatives it separated, and the
+revisions it permitted.
+
+The admission he had wanted now felt less like passage through a gate
+than responsibility for what happened after it. Remaining meant helping
+the inquiry continue when no demonstration had been prepared in
+advance.
 
 She was no longer placing a lesson before him. The inquiry belonged to
 both of them, and Elias was responsible for helping decide where it
